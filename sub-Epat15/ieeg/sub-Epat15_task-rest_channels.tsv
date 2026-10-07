@@ -1,0 +1,71 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	status	description	region	soz_region_label
+M1OBL1-M1OBL2	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL1 - M1 OBL2' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+M1OBL2-M1OBL3	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL2 - M1 OBL3' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+M1OBL3-M1OBL4	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL3 - M1 OBL4' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+AOBL5-AOBL6	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL5 - A OBL6' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+AOBL6-AOBL7	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL6 - A OBL7' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+AOBL7-AOBL8	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL7 - A OBL8' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+AOBL8-AOBL9	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL8 - A OBL9' (release label)	ctx-lh-caudalanteriorcingulate	non-SOZ
+OCC1-OCC2	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC1 - OCC2' (release label)	ctx-lh-cuneus	non-SOZ
+OCC2-OCC3	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC2 - OCC3' (release label)	ctx-lh-cuneus	non-SOZ
+OCC3-OCC4	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC3 - OCC4' (release label)	ctx-lh-cuneus	non-SOZ
+OCC4-OCC5	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC4 - OCC5' (release label)	ctx-lh-cuneus	non-SOZ
+OCC5-OCC6	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC5 - OCC6' (release label)	ctx-lh-cuneus	non-SOZ
+OCC6-OCC7	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC6 - OCC7' (release label)	ctx-lh-cuneus	non-SOZ
+OCC7-OCC8	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC7 - OCC8' (release label)	ctx-lh-cuneus	non-SOZ
+OCC8-OCC9	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC8 - OCC9' (release label)	ctx-lh-cuneus	non-SOZ
+OCC9-OCC10	SEEG	µV	1	150	2048	good	bipolar derivation 'OCC9 - OCC10' (release label)	ctx-lh-cuneus	non-SOZ
+H5-H6	SEEG	µV	1	150	2048	good	bipolar derivation 'H5 - H6' (release label)	ctx-lh-inferiortemporal	non-SOZ
+H6-H7	SEEG	µV	1	150	2048	good	bipolar derivation 'H6 - H7' (release label)	ctx-lh-inferiortemporal	non-SOZ
+H7-H8	SEEG	µV	1	150	2048	good	bipolar derivation 'H7 - H8' (release label)	ctx-lh-inferiortemporal	non-SOZ
+H8-H9	SEEG	µV	1	150	2048	good	bipolar derivation 'H8 - H9' (release label)	ctx-lh-inferiortemporal	non-SOZ
+POBL1-POBL2	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL1 - P OBL2' (release label)	ctx-lh-isthmuscingulate	n/a
+POBL2-POBL3	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL2 - P OBL3' (release label)	ctx-lh-isthmuscingulate	n/a
+POBL3-POBL4	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL3 - P OBL4' (release label)	ctx-lh-isthmuscingulate	n/a
+PT1-PT2	SEEG	µV	1	150	2048	good	bipolar derivation 'PT1 - PT2' (release label)	ctx-lh-lingual	non-SOZ
+PT2-PT3	SEEG	µV	1	150	2048	good	bipolar derivation 'PT2 - PT3' (release label)	ctx-lh-lingual	non-SOZ
+PT3-PT4	SEEG	µV	1	150	2048	good	bipolar derivation 'PT3 - PT4' (release label)	ctx-lh-lingual	non-SOZ
+PT4-PT5	SEEG	µV	1	150	2048	good	bipolar derivation 'PT4 - PT5' (release label)	ctx-lh-lingual	non-SOZ
+PT5-PT6	SEEG	µV	1	150	2048	good	bipolar derivation 'PT5 - PT6' (release label)	ctx-lh-lingual	non-SOZ
+PT6-PT7	SEEG	µV	1	150	2048	good	bipolar derivation 'PT6 - PT7' (release label)	ctx-lh-lingual	non-SOZ
+AOBL1-AOBL2	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL1 - A OBL2' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AOBL2-AOBL3	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL2 - A OBL3' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AOBL3-AOBL4	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL3 - A OBL4' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AF1-AF2	SEEG	µV	1	150	2048	good	bipolar derivation 'AF1 - AF2' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AF2-AF3	SEEG	µV	1	150	2048	good	bipolar derivation 'AF2 - AF3' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AF3-AF4	SEEG	µV	1	150	2048	good	bipolar derivation 'AF3 - AF4' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+AF4-AF5	SEEG	µV	1	150	2048	good	bipolar derivation 'AF4 - AF5' (release label)	ctx-lh-medialorbitofrontal	non-SOZ
+PT8-PT9	SEEG	µV	1	150	2048	good	bipolar derivation 'PT8 - PT9' (release label)	ctx-lh-middletemporal	non-SOZ
+PT9-PT10	SEEG	µV	1	150	2048	good	bipolar derivation 'PT9 - PT10' (release label)	ctx-lh-middletemporal	non-SOZ
+PT10-PT11	SEEG	µV	1	150	2048	good	bipolar derivation 'PT10 - PT11' (release label)	ctx-lh-middletemporal	non-SOZ
+PT11-PT12	SEEG	µV	1	150	2048	good	bipolar derivation 'PT11 - PT12' (release label)	ctx-lh-middletemporal	non-SOZ
+POBL10-POBL11	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL10 - P OBL11' (release label)	ctx-lh-paracentral	n/a
+POBL11-POBL12	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL11 - P OBL12' (release label)	ctx-lh-paracentral	n/a
+M2OBL1-M2OBL2	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL1 - M2 OBL2' (release label)	ctx-lh-posteriorcingulate	n/a
+M2OBL2-M2OBL3	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL2 - M2 OBL3' (release label)	ctx-lh-posteriorcingulate	n/a
+M2OBL3-M2OBL4	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL3 - M2 OBL4' (release label)	ctx-lh-posteriorcingulate	n/a
+M2OBL4-M2OBL5	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL4 - M2 OBL5' (release label)	ctx-lh-posteriorcingulate	n/a
+POBL5-POBL6	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL5 - P OBL6' (release label)	ctx-lh-precuneus	non-SOZ
+POBL6-POBL7	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL6 - P OBL7' (release label)	ctx-lh-precuneus	non-SOZ
+POBL7-POBL8	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL7 - P OBL8' (release label)	ctx-lh-precuneus	non-SOZ
+POBL8-POBL9	SEEG	µV	1	150	2048	good	bipolar derivation 'P OBL8 - P OBL9' (release label)	ctx-lh-precuneus	non-SOZ
+M1OBL5-M1OBL6	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL5 - M1 OBL6' (release label)	ctx-lh-superiorfrontal	n/a
+M1OBL6-M1OBL7	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL6 - M1 OBL7' (release label)	ctx-lh-superiorfrontal	n/a
+M1OBL7-M1OBL8	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL7 - M1 OBL8' (release label)	ctx-lh-superiorfrontal	n/a
+M1OBL8-M1OBL9	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL8 - M1 OBL9' (release label)	ctx-lh-superiorfrontal	n/a
+M1OBL9-M1OBL10	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL9 - M1 OBL10' (release label)	ctx-lh-superiorfrontal	n/a
+M1OBL10-M1OBL11	SEEG	µV	1	150	2048	good	bipolar derivation 'M1 OBL10 - M1 OBL11' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL10-AOBL11	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL10 - A OBL11' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL11-AOBL12	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL11 - A OBL12' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL12-AOBL13	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL12 - A OBL13' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL13-AOBL14	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL13 - A OBL14' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL14-AOBL15	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL14 - A OBL15' (release label)	ctx-lh-superiorfrontal	n/a
+AOBL15-AOBL16	SEEG	µV	1	150	2048	good	bipolar derivation 'A OBL15 - A OBL16' (release label)	ctx-lh-superiorfrontal	n/a
+M2OBL6-M2OBL7	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL6 - M2 OBL7' (release label)	ctx-lh-superiorfrontal	n/a
+M2OBL7-M2OBL8	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL7 - M2 OBL8' (release label)	ctx-lh-superiorfrontal	n/a
+M2OBL8-M2OBL9	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL8 - M2 OBL9' (release label)	ctx-lh-superiorfrontal	n/a
+M2OBL9-M2OBL10	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL9 - M2 OBL10' (release label)	ctx-lh-superiorfrontal	n/a
+M2OBL10-M2OBL11	SEEG	µV	1	150	2048	good	bipolar derivation 'M2 OBL10 - M2 OBL11' (release label)	ctx-lh-superiorfrontal	n/a
+H1-H2	SEEG	µV	1	150	2048	good	bipolar derivation 'H1 - H2' (release label)	Left-Hippocampus	n/a
+H2-H3	SEEG	µV	1	150	2048	good	bipolar derivation 'H2 - H3' (release label)	Left-Hippocampus	n/a
+H3-H4	SEEG	µV	1	150	2048	good	bipolar derivation 'H3 - H4' (release label)	Left-Hippocampus	n/a

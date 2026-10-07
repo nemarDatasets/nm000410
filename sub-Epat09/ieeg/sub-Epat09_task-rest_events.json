@@ -1,0 +1,5 @@
+{
+  "trial_type": {
+    "Description": "unreadable_source_samples: samples that could not be read from the release MAT file (corrupt gzip chunk in the HDF5 data; the file matches the Pennsieve checksum, so the corruption is in the release). They are NaN in the BrainVision data."
+  }
+}

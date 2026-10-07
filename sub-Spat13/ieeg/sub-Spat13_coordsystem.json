@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "The release gives no contact coordinates, only the anatomical region of each bipolar channel; x/y/z are n/a. One row per bipolar channel."
+}

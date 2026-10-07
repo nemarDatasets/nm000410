@@ -1,0 +1,8 @@
+{
+  "region": {
+    "Description": "Region of the bipolar channel (bip_montage_region in the release MAT file)"
+  },
+  "soz_region_label": {
+    "Description": "Region-level seizure-onset-zone label used by the authors as ground truth: 'true_label' of the region in complete_results_108_perm4_alllocs_v2_hist.json (SOZ = 1, non-SOZ = 0). Per the paper, SOZs were defined on a region basis as DK regions containing any contact involved in the ictal onset of one or more seizures. n/a when the region was not evaluated (regions with fewer than four contacts were excluded)."
+  }
+}

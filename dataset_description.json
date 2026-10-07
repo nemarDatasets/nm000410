@@ -1,0 +1,50 @@
+{
+  "Name": "Vanderbilt BIEN Lab SOZ Resting State SEEG Classification (processed resting-state SEEG)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "Kate Wang",
+    "Sameer Sundrani",
+    "Dario Englot"
+  ],
+  "Acknowledgements": "Pennsieve record doi:10.26275/wtaz-dbst (published 2025-11-13).",
+  "HowToAcknowledge": "Cite the dataset (https://doi.org/10.26275/wtaz-dbst) and Sundrani S, Johnson GW, Doss DJ, Makhoul GS, Hidalgo Monroy Lerma B, Reda A, Cavender AC, Liao E, Rogers BP, Williams Roberson S, Bick SK, Morgan VL, Englot DJ (2025). Deep learning on brief interictal intracranial recordings can accurately characterize seizure onset zones. Epilepsia 66(9):3180-3192. https://doi.org/10.1111/epi.18478",
+  "Funding": [
+    "This work was supported by the following grants: NINDS R01NS112252, R01NS134625, F31NS131056, NIGMS T32GM007347, and NIBIB T32EB021937.",
+    "We would also like to thank Neil and Barbara Smit for their support towards this work."
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Vanderbilt Institutional Review Board, and informed subject consent was obtained."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.26275/wtaz-dbst",
+    "https://discover.pennsieve.io/datasets/492/version/1",
+    "https://doi.org/10.1111/epi.18478"
+  ],
+  "Keywords": [
+    "shap analysis",
+    "convolutional neural network",
+    "presurgical evaluation",
+    "seizure onset zone localization",
+    "SEEG",
+    "resting state"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Authors' preprocessing (Sundrani et al. 2025)",
+      "Description": "Five minutes of awake eyes-closed resting-state SEEG per patient; bipolar montage of adjacent contacts; Butterworth filtering with MATLAB filtfilt, passbands 1-59, 61-119 and 121-150 Hz (paper, Methods: Data Preprocessing). Stored by the authors as filt_data (volts) in <id>_python_friendly.mat."
+    },
+    {
+      "Name": "NEMAR repackaging (b3w5_build_vanderbilt.py)",
+      "Description": "filt_data converted from float64 volts to float32 microvolts in BrainVision; channel names with spaces removed ('A1 - A2' -> 'A1-A2', original label kept in channels.tsv description); region-level SOZ labels copied from the authors' results JSON."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.26275/wtaz-dbst",
+      "URL": "https://discover.pennsieve.io/datasets/492/version/1",
+      "Version": "1"
+    }
+  ]
+}

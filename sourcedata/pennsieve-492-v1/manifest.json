@@ -1,0 +1,1078 @@
+{
+  "pennsieveDatasetId" : 492,
+  "version" : 1,
+  "name" : "Vanderbilt BIEN Lab SOZ Resting State SEEG Classification",
+  "description" : "Deep Learning Framework for Seizure Onset Zone (SOZ) Localization from Resting-State SEEG Signals",
+  "creator" : {
+    "first_name" : "Kate",
+    "last_name" : "Wang",
+    "orcid" : "0009-0000-2913-5708"
+  },
+  "contributors" : [
+    {
+      "first_name" : "Kate",
+      "last_name" : "Wang",
+      "orcid" : "0009-0000-2913-5708",
+      "degree" : "B.S."
+    },
+    {
+      "first_name" : "Sameer",
+      "last_name" : "Sundrani"
+    },
+    {
+      "first_name" : "Dario",
+      "last_name" : "Englot"
+    }
+  ],
+  "sourceOrganization" : "Penn CNT",
+  "keywords" : [
+    "shap analysis",
+    "convolutional neural network",
+    "presurgical evaluation",
+    "seizure onset zone localization"
+  ],
+  "datePublished" : "2025-11-13",
+  "license" : "Creative Commons Attribution - NonCommercial-ShareAlike",
+  "@id" : "https://doi.org/10.26275/wtaz-dbst",
+  "publisher" : "The University of Pennsylvania",
+  "@context" : "http://schema.org/",
+  "@type" : "Dataset",
+  "schemaVersion" : "http://schema.org/version/3.7/",
+  "collections" : [
+  ],
+  "relatedPublications" : [
+    {
+      "doi" : "10.1111/epi.18478",
+      "relationshipType" : "IsSupplementTo"
+    }
+  ],
+  "files" : [
+    {
+      "name" : ".DS_Store",
+      "path" : "files/.DS_Store",
+      "size" : 6148,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:4e7e3abc-e56e-41c7-93e8-5011bb67e0a5",
+      "s3VersionId" : "gdgm0pFZzBfk8GP9gO9mEB1ecd3QVMVM",
+      "sha256" : "nbSVPiB/L3O4ZqX/N0zfTvQGT3P0jHU6rEVv3/UGcro="
+    },
+    {
+      "name" : ".DS_Store",
+      "path" : "files/models/.DS_Store",
+      "size" : 6148,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:0e0c5515-b500-4123-a615-7ed07b9419c4",
+      "s3VersionId" : "RcNxH8pyR6bMyI21Lw_xRIdh_mR8TSGD",
+      "sha256" : "XpCW+0dpOIBdUfiNuTYhw/6QUWv9lFsGASa3HWojFp8="
+    },
+    {
+      "name" : "Epat02_python_friendly.mat",
+      "path" : "files/ts_data/Epat02_python_friendly.mat",
+      "size" : 80356122,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:60a9c2c6-3483-40bd-bcf0-ca88d2ca291e",
+      "s3VersionId" : "znTgD8pWZ_qEIiEvwhfERaij1V44_tn6",
+      "sha256" : "kWEDkq/bKQLlZR4uz/kjvW5DsfkZRw19aTwwxqQGh1s="
+    },
+    {
+      "name" : "Epat03_python_friendly.mat",
+      "path" : "files/ts_data/Epat03_python_friendly.mat",
+      "size" : 50089509,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:ac6b2afc-53f9-4bd7-8b21-9f0812eac180",
+      "s3VersionId" : "DMQ5kKHAozdX1asgY6KNjCN6zEod.0yq",
+      "sha256" : "2WkI22IW8OlKSIwExrKW8YcjwcZSUECXna2BOMv19AA="
+    },
+    {
+      "name" : "Epat04_python_friendly.mat",
+      "path" : "files/ts_data/Epat04_python_friendly.mat",
+      "size" : 73360312,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:cc6519af-6997-4da7-b0f0-538539050ea7",
+      "s3VersionId" : "5aQpSA5TYCpG0ceskqF4ZoNGZoGSfsrR",
+      "sha256" : "zhgIXW8G4GE2czEwBcze4fShN9rWnnRnP14m1bB7+Jo="
+    },
+    {
+      "name" : "Epat05_python_friendly.mat",
+      "path" : "files/ts_data/Epat05_python_friendly.mat",
+      "size" : 59480845,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:e3bfc068-34e2-4ff0-aec6-96566abf80b8",
+      "s3VersionId" : "WAA3i08gPRipSJrHobRyrJFplz786B2O",
+      "sha256" : "HfIt+tfPjqw8oSL/Bv8mbqBVYo1Sa4Qe9KBhW2QUmzs="
+    },
+    {
+      "name" : "Epat06_python_friendly.mat",
+      "path" : "files/ts_data/Epat06_python_friendly.mat",
+      "size" : 44366696,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:455a44ba-88ce-4595-a283-24b1e741ded2",
+      "s3VersionId" : "Hg7cTIaf7sKbhCkxFWiaPdg_W9mw9Ran",
+      "sha256" : "/xLRn1lnw5+wjw42OUivQOOq+qeru+ltkCzFclXixwU="
+    },
+    {
+      "name" : "Epat08_python_friendly.mat",
+      "path" : "files/ts_data/Epat08_python_friendly.mat",
+      "size" : 48931210,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:f3500df6-f375-4004-9b65-f1a6b84223e6",
+      "s3VersionId" : "e7QS7LFhk5NU3GdX4NIdHZL0r_eAINos",
+      "sha256" : "r1hKEL7icQjsW+ZD8n7ovidqAPZy+m7W1Wz+DkkhkLU="
+    },
+    {
+      "name" : "Epat09_python_friendly.mat",
+      "path" : "files/ts_data/Epat09_python_friendly.mat",
+      "size" : 75700862,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:83c6d319-2652-41b3-837c-3a9eab8dd638",
+      "s3VersionId" : "QhxB13ajW3YtMbNEp3AFzEIjqQRpVbLd",
+      "sha256" : "LNrSgd9N77KQrrdZh/qW/jGsNulAxAiGDR3Lowhw+AY="
+    },
+    {
+      "name" : "Epat10_python_friendly.mat",
+      "path" : "files/ts_data/Epat10_python_friendly.mat",
+      "size" : 60531231,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:176abb0e-4aa3-4703-90f4-6de49a5c0cdc",
+      "s3VersionId" : ".FYLL2kM5nJJF2G1acZsisCBw9I8RY9w",
+      "sha256" : "Sar7/AzxBuSG/TBtWVYZhlEXxbzZn6n2GzV62uFa+6E="
+    },
+    {
+      "name" : "Epat11_python_friendly.mat",
+      "path" : "files/ts_data/Epat11_python_friendly.mat",
+      "size" : 80375492,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:6c99e6ff-b86d-41df-95ef-b957acffe16e",
+      "s3VersionId" : "AN7CWJZDPj_jDPwyB5BR503wweWM.F8t",
+      "sha256" : "3d9KOKnjkX22rJlQPKN9SAhGFKx06UK7ZkZJWitDoXo="
+    },
+    {
+      "name" : "Epat13_python_friendly.mat",
+      "path" : "files/ts_data/Epat13_python_friendly.mat",
+      "size" : 238509077,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:e03e5ba8-0c74-45a2-a914-f3443b387ed8",
+      "s3VersionId" : "4cDEEvQ.o6kL2d.enSuxa79wD095WMHU",
+      "sha256" : "ttQ6fmg+XptylhlwV0/IqgTCkbZL6XvLB9QJSTYKW50="
+    },
+    {
+      "name" : "Epat14_python_friendly.mat",
+      "path" : "files/ts_data/Epat14_python_friendly.mat",
+      "size" : 296558270,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:77fc794e-95ad-4758-ab2f-61e69fb9bb60",
+      "s3VersionId" : "i8bmBKx5hol49gYujPUe0vN4DiBa5Ct5",
+      "sha256" : "CkvgAO8UqF5q0vS4Ff/LT1FNnrXEszAeenoHcVXbhcA="
+    },
+    {
+      "name" : "Epat15_python_friendly.mat",
+      "path" : "files/ts_data/Epat15_python_friendly.mat",
+      "size" : 334354884,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:b83e04b0-1ad4-4ca2-9634-49c185aa9a70",
+      "s3VersionId" : "6C06jY.Rkfxo0FAKQ3R2U.NyunSPQmQo",
+      "sha256" : "OdmFhug84sfVlEXYEuMHGbyXIokgtHNgoYIVNTodep0="
+    },
+    {
+      "name" : "Epat17_python_friendly.mat",
+      "path" : "files/ts_data/Epat17_python_friendly.mat",
+      "size" : 269723726,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:55c7f840-057b-410d-9c3f-309850552cc7",
+      "s3VersionId" : "Bvya5F6Z1h6pMXWF16J2.IFb3Lnwvp8h",
+      "sha256" : "Nz4+VYAOF2u+Yq2bdvGTigk8lnZ9v38nvsZsyIeckR4="
+    },
+    {
+      "name" : "Epat18_python_friendly.mat",
+      "path" : "files/ts_data/Epat18_python_friendly.mat",
+      "size" : 228942738,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:77ad2cdb-e02d-43df-96f9-fd15ac9519b2",
+      "s3VersionId" : "UCNdxRSNAB2izVj8M5sK.WP.w.pbX5OS",
+      "sha256" : "vXDwI5HeTV3je45KEG8h+2HmC768q1B8rQjs4B/xAb4="
+    },
+    {
+      "name" : "Epat19_python_friendly.mat",
+      "path" : "files/ts_data/Epat19_python_friendly.mat",
+      "size" : 84865942,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:b9dca17c-cdb6-4214-b3ac-f7a3930f6f8b",
+      "s3VersionId" : "gVbgejBQQjYnb8F6u85Rmh2lYB70Wdar",
+      "sha256" : "9tDS9HWy7oPFLSvC9FLpl2aasTQ29RqD0eOImTvi9CM="
+    },
+    {
+      "name" : "Epat20_python_friendly.mat",
+      "path" : "files/ts_data/Epat20_python_friendly.mat",
+      "size" : 400917600,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:4250a834-887c-4b3e-a3a7-380115c7fd89",
+      "s3VersionId" : "8kYAQs5X63kNL.P8iDqYHjxkqBCdT150",
+      "sha256" : "Up0y0Xfr31PasLOzwM0W1xB1G+K1EJ36QuRc8/HBI/U="
+    },
+    {
+      "name" : "Epat21_python_friendly.mat",
+      "path" : "files/ts_data/Epat21_python_friendly.mat",
+      "size" : 448149658,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:b31039a2-39d7-4ade-b4ff-6ceb94092d8b",
+      "s3VersionId" : "lmYXZRWXZVa9OBctIC_p.1QU5Qdffyyc",
+      "sha256" : "CN7aMam5ApnCq6DF0/EcNJQkcTsOR2aUw6UqR/VEKPQ="
+    },
+    {
+      "name" : "Epat23_python_friendly.mat",
+      "path" : "files/ts_data/Epat23_python_friendly.mat",
+      "size" : 250286615,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:8458f66d-bd7b-42b8-80e4-ae577611e77b",
+      "s3VersionId" : "jiC_bO7pj.ImcEUFDSSHZvXSbDrnKGQd",
+      "sha256" : "9CImffn+BHlhJ7iT5vSWeUAcTTOiNEnSI8u+4GWIMyY="
+    },
+    {
+      "name" : "Epat24_python_friendly.mat",
+      "path" : "files/ts_data/Epat24_python_friendly.mat",
+      "size" : 139530723,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:3168b57a-d5ec-426b-a6bc-1af4b06d6225",
+      "s3VersionId" : "BRPfqi6St83uieQIaZdGxoMDqfMZxA6q",
+      "sha256" : "GVYoNUPwVXxuQEL37DIyJazUEOxCaYmmtaDXybkQ8OE="
+    },
+    {
+      "name" : "Epat25_python_friendly.mat",
+      "path" : "files/ts_data/Epat25_python_friendly.mat",
+      "size" : 85855645,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:67d18c7e-041b-485c-b68f-d0a31ea4ee4f",
+      "s3VersionId" : "FZVi11nWr_ErQ8JKi5gkYsGeUy28Tv3c",
+      "sha256" : "m/d6SV8Z3aLQdaRXg/S7dKjQ18Cjme6QVV7FzSs7aBY="
+    },
+    {
+      "name" : "Epat26_python_friendly.mat",
+      "path" : "files/ts_data/Epat26_python_friendly.mat",
+      "size" : 122721088,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:cad60700-be83-4f77-b4ec-78b15aeff551",
+      "s3VersionId" : "SoqJDuRLT5Eo4M9bNxKrLFfFnVzh2vQh",
+      "sha256" : "We3PgcWKrYM0ntYtOmbkFixrDep9aJ4b3/k2w5EiJro="
+    },
+    {
+      "name" : "Epat27_python_friendly.mat",
+      "path" : "files/ts_data/Epat27_python_friendly.mat",
+      "size" : 113642418,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:7235c370-0b6e-4370-8e8c-5045e67a250a",
+      "s3VersionId" : "Lch7eGTpB3G8_8fvNgfpgpDs.4UR9foe",
+      "sha256" : "enMnRzdRfFIddMWY5BLwbfuf4Tt17Mmf1W6YeITypy4="
+    },
+    {
+      "name" : "Epat28_python_friendly.mat",
+      "path" : "files/ts_data/Epat28_python_friendly.mat",
+      "size" : 135182052,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:06e437bf-26d0-4320-9f2a-6eb085814649",
+      "s3VersionId" : "EL1_Q0y_o7hCMn6JT3xo.FIN3eOveCcm",
+      "sha256" : "YjhBskPEdJoQ4uiPE+N3Vxpl5AVuly+jHmPH/1wuECU="
+    },
+    {
+      "name" : "Epat30_python_friendly.mat",
+      "path" : "files/ts_data/Epat30_python_friendly.mat",
+      "size" : 107566384,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:781f6e38-e8bd-447b-b393-ff50ade5ea5e",
+      "s3VersionId" : "Atzr5z1UbD.waRKfEC5S4czmQotw2dBT",
+      "sha256" : "ujdIwNf8KfkB3X/yp0yHZYeS16zEOMAXazcabgEYeUQ="
+    },
+    {
+      "name" : "Epat31_python_friendly.mat",
+      "path" : "files/ts_data/Epat31_python_friendly.mat",
+      "size" : 69336453,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:117361ea-0126-4632-af5e-daac29bc4b98",
+      "s3VersionId" : "R8ZVmANtA.O6P5tSUpRDAD2w6k90L0Bv",
+      "sha256" : "X2f9iQIR4+mKFDQvV3Q4TdFvQQXya7TtPpikLEw9rGc="
+    },
+    {
+      "name" : "Epat33_python_friendly.mat",
+      "path" : "files/ts_data/Epat33_python_friendly.mat",
+      "size" : 126749500,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:888c8f7a-75ea-4f2d-b58f-181b0b80a80e",
+      "s3VersionId" : "912ytkh_KTPR8u7h6x4ggg3yhqR2s1UB",
+      "sha256" : "M5ZbPzcuHfEfuSMMvnip905LA90iKWOlLRw6fafnoqY="
+    },
+    {
+      "name" : "Epat34_python_friendly.mat",
+      "path" : "files/ts_data/Epat34_python_friendly.mat",
+      "size" : 128905218,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:dd154cb4-e72d-430c-8634-503432742a3b",
+      "s3VersionId" : "tD3x.pwgGvqztx2oFF.ZKor3TRxDQZSJ",
+      "sha256" : "GuoADYBD56IL5Qq8RxboAFfSHfZ9aGPZHRz2EUbj8No="
+    },
+    {
+      "name" : "Epat35_python_friendly.mat",
+      "path" : "files/ts_data/Epat35_python_friendly.mat",
+      "size" : 92113131,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:9b329ec8-0173-4bf3-a21c-114b304407bf",
+      "s3VersionId" : "Hbv8LvRdjbGmeYa__gOhzXr5YIVZX2Rc",
+      "sha256" : "x7zUuvRi8BZDW20T/jARsLIUK+56d7TcEFnH7Jes5yg="
+    },
+    {
+      "name" : "Epat37_python_friendly.mat",
+      "path" : "files/ts_data/Epat37_python_friendly.mat",
+      "size" : 147726980,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:d668e563-c7c3-41e5-bea2-b5ee4a7e848e",
+      "s3VersionId" : "sGSo0.k8QTxr5RuPPMYhiRj2fIzcaBL1",
+      "sha256" : "tN3T7R7M770fzeANXECswFVA6PkhLTEjn6HWNOxXV3U="
+    },
+    {
+      "name" : "Epat38_python_friendly.mat",
+      "path" : "files/ts_data/Epat38_python_friendly.mat",
+      "size" : 129971696,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:19fe0682-087f-4fad-bea4-de270e797acc",
+      "s3VersionId" : "cKVDpUzSMQARqMyarIi7_I952TNskUMV",
+      "sha256" : "Qy+MUi6g2D7Do9v91p8xEe3nNf3GEIRbFBa8+ONDGGQ="
+    },
+    {
+      "name" : "Epat39_python_friendly.mat",
+      "path" : "files/ts_data/Epat39_python_friendly.mat",
+      "size" : 89756937,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:4b8bd7e0-9907-4b10-bb39-9e43166f2ebf",
+      "s3VersionId" : "awjlTyVAtzMasuFTiHmbSYaOEoaY8fgD",
+      "sha256" : "fC3chhydUFHmXIo3Kk+DO4Y7nXR6iOwrosxigXcbJiQ="
+    },
+    {
+      "name" : "Epat41_python_friendly.mat",
+      "path" : "files/ts_data/Epat41_python_friendly.mat",
+      "size" : 113559344,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:297c945b-d36e-411a-aa19-1f04c11eee2f",
+      "s3VersionId" : "bDfzKwBAryfqGw4UZUz.vId9ckXY40Bq",
+      "sha256" : "VliKgQFgmpE+LiTM4xXqDXwWh3/cJnXgKdjJXCsgZww="
+    },
+    {
+      "name" : "Epat43_python_friendly.mat",
+      "path" : "files/ts_data/Epat43_python_friendly.mat",
+      "size" : 106153068,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:afd1cde9-1c4c-404b-b09e-14fbf60f525d",
+      "s3VersionId" : "M10tz06i3pfSRBVwGEWJSkmzevZIQ51A",
+      "sha256" : "5ZDJzFJGFqmEXdH6VMwzBRwjxsJUh/F/jn/39byw46c="
+    },
+    {
+      "name" : "README.md",
+      "path" : "files/README.md",
+      "size" : 12839,
+      "fileType" : "Markdown",
+      "sourcePackageId" : "N:package:e765df4a-fa6f-4ab1-a754-97bc6c1bebfc",
+      "s3VersionId" : "BJ0yhPnMqalPfBLkhbXPJMFvr581M13I",
+      "sha256" : "eLXwGD5oJjucQLxbPaI2Mj8nNLAOWqK+aT9FAMS63GQ="
+    },
+    {
+      "name" : "Spat02_python_friendly.mat",
+      "path" : "files/ts_data/Spat02_python_friendly.mat",
+      "size" : 61709438,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:23cc74c1-8e14-4420-8fa3-89b567ae8cc2",
+      "s3VersionId" : "DAeVpfueYNnJm.E1YqRkCW.LXJcs8t19",
+      "sha256" : "VHQS2QEYm1w+AxVzOYTMhDhkQk88drXpxx1dvsiFXE0="
+    },
+    {
+      "name" : "Spat03_python_friendly.mat",
+      "path" : "files/ts_data/Spat03_python_friendly.mat",
+      "size" : 67450082,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:ea7d059c-8341-491d-8aba-8b3c7df33148",
+      "s3VersionId" : "d9_4IghjBPauvRJI0QmrF9UcfIDc.psk",
+      "sha256" : "vvcLziuv7oP7lpd3h3cP4I9rzaK5sy6MaBecePA9Zpo="
+    },
+    {
+      "name" : "Spat05_python_friendly.mat",
+      "path" : "files/ts_data/Spat05_python_friendly.mat",
+      "size" : 67489526,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:62b4a97f-2d0a-4463-94f8-83f8878e2c7c",
+      "s3VersionId" : "HllBK9Jri4m37hjSRS0bPd06WzX3tYbr",
+      "sha256" : "OCeCdlDvK8ixkoN3Qwm2bg3qqNfhwWOLU9AVwrA16TM="
+    },
+    {
+      "name" : "Spat06_python_friendly.mat",
+      "path" : "files/ts_data/Spat06_python_friendly.mat",
+      "size" : 88796408,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:8fb9f74f-131c-4e39-9a0e-b8191379cf43",
+      "s3VersionId" : "LjR1uNAFfDh2G4IdOPSgIzfhA5PB.Ff1",
+      "sha256" : "NnPKOZtFpSx5HWP1lJEoxXL+G2FGCEIg7ivX87F21vw="
+    },
+    {
+      "name" : "Spat07_python_friendly.mat",
+      "path" : "files/ts_data/Spat07_python_friendly.mat",
+      "size" : 77046763,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:a0581fdb-0e7a-4e0e-85e6-66a11e2a6726",
+      "s3VersionId" : "9ZOf85USA6edH66umoMNDH2lCoU4zq4P",
+      "sha256" : "OPnCYT7JVv/k6DSr2p7/FmuiIsNMMw+EWeOFc5BXYsA="
+    },
+    {
+      "name" : "Spat08_python_friendly.mat",
+      "path" : "files/ts_data/Spat08_python_friendly.mat",
+      "size" : 60737419,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:b4041b1d-66f0-4379-8c2e-3a910a395743",
+      "s3VersionId" : "1p5sO.SDHDTrwXJpavaqv0Xj6kjP2qOV",
+      "sha256" : "g+tbSeJdCJBiZpxZmfEE6TuP17C1bBmuucIG1Q1bEpM="
+    },
+    {
+      "name" : "Spat09_python_friendly.mat",
+      "path" : "files/ts_data/Spat09_python_friendly.mat",
+      "size" : 70058473,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:838fc310-b0f4-4538-a407-659bc6c4fe6d",
+      "s3VersionId" : "yS5iq9ynEwxfZU3Hxo6kprVx_iuJCdFB",
+      "sha256" : "ZD8qHc7X/CjhZd/2IwY+qXhqak8jxL2QRbMnIsywfPs="
+    },
+    {
+      "name" : "Spat10_python_friendly.mat",
+      "path" : "files/ts_data/Spat10_python_friendly.mat",
+      "size" : 53604262,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:ef5c095d-b574-4221-b3ec-7e534f5bc7fa",
+      "s3VersionId" : "yjicQadrFGQOiI7OaVrshfyFG16.9fPS",
+      "sha256" : "CCaYCLklE7d53xGxvRCA+fhbrUOHy7b6SWVBERHEyWo="
+    },
+    {
+      "name" : "Spat11_python_friendly.mat",
+      "path" : "files/ts_data/Spat11_python_friendly.mat",
+      "size" : 68784858,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:849c31c3-c98c-4ba9-839f-0fd30f905917",
+      "s3VersionId" : "sMtj_.3sNSSP7WgG60n6GvMXVDdFhPtZ",
+      "sha256" : "EwwKI+49fKNK82A4mnHQ/Kysnyo9RgwaCd0e+hcnU50="
+    },
+    {
+      "name" : "Spat12_python_friendly.mat",
+      "path" : "files/ts_data/Spat12_python_friendly.mat",
+      "size" : 61917138,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:e86e5add-e9a2-484c-9e89-d86ff65646da",
+      "s3VersionId" : "KAKazuBJkQ.AraDJdHj.rrv4RNyJyR.8",
+      "sha256" : "es6X5g+actQxsL3H5T6pVRq8AT7XQKRIgsDHsxBNIX4="
+    },
+    {
+      "name" : "Spat13_python_friendly.mat",
+      "path" : "files/ts_data/Spat13_python_friendly.mat",
+      "size" : 100271393,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:722c97a1-8952-4c5b-8d0b-99ed6955c599",
+      "s3VersionId" : "AbAbEaGQdtwqhbekS9gfOE4iImyFIPdp",
+      "sha256" : "C2UQNbJBq6Vvu6h6rIAPNVJiq+z21fXhknj9e56AHRU="
+    },
+    {
+      "name" : "Spat14_python_friendly.mat",
+      "path" : "files/ts_data/Spat14_python_friendly.mat",
+      "size" : 285995599,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:15a8b5b7-6016-4b09-a7a9-e7a9959f3410",
+      "s3VersionId" : "os0Zrrqfg.OY5q0jEtrKkR13y3Apk.Oh",
+      "sha256" : "rE2Xc56VKbIPWr+zuMeZVzN/44js1l+bFeKrsi8fbgc="
+    },
+    {
+      "name" : "Spat17_python_friendly.mat",
+      "path" : "files/ts_data/Spat17_python_friendly.mat",
+      "size" : 100247379,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:5757090a-472c-4a5a-a960-4b7ea16737b6",
+      "s3VersionId" : "lQSB8mHtKqrlTo2J58vJkCPiJzUIHc20",
+      "sha256" : "CnEM7O/cWwnDEtny+AJMkaMxKNfLYxC7ouUCA/8/9qo="
+    },
+    {
+      "name" : "Spat18_python_friendly.mat",
+      "path" : "files/ts_data/Spat18_python_friendly.mat",
+      "size" : 337126359,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:59276269-1c7a-4cce-8e16-a939dffbc4a7",
+      "s3VersionId" : "M_tvLn_c47ddhy7wqePVs6WYs3rVoNx9",
+      "sha256" : "hQucEf8QnXuKMiaaE54DTzdNxkyPXjfMKC4NL0ob7qA="
+    },
+    {
+      "name" : "Spat19_python_friendly.mat",
+      "path" : "files/ts_data/Spat19_python_friendly.mat",
+      "size" : 99306861,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:e331fb18-636c-4a95-978c-110ea9318936",
+      "s3VersionId" : "0w8pubNsSh8vbQYLU5ldtrVflRBFZtIO",
+      "sha256" : "yum2jj/f8GmpQzc6tJLcxRcj5qxP7hMVm+zZB8ogbqE="
+    },
+    {
+      "name" : "Spat20_python_friendly.mat",
+      "path" : "files/ts_data/Spat20_python_friendly.mat",
+      "size" : 224564914,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:dbecbb25-9c55-4c82-9f2e-a82e57059411",
+      "s3VersionId" : "ZK0e_ekfjQdNsTFfnZ6MZbOcpFN7J7bz",
+      "sha256" : "n6MW2NAqHIk/U7uEQPdPBTNMgc5fYwnRvT7V4W4WxAo="
+    },
+    {
+      "name" : "Spat22_python_friendly.mat",
+      "path" : "files/ts_data/Spat22_python_friendly.mat",
+      "size" : 104058727,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:bfb996c7-c93d-4fa5-9c1d-8b701dd72dd2",
+      "s3VersionId" : "MUv.0aIwoMg17D6Cw2AeKcr2uD.nehIU",
+      "sha256" : "cee54S9MfVU1L09r2oczHeSsDmxIaBre1EaJXprfvjI="
+    },
+    {
+      "name" : "Spat23_python_friendly.mat",
+      "path" : "files/ts_data/Spat23_python_friendly.mat",
+      "size" : 601868567,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:5cb759ff-d5a3-4872-8d76-3fdfdb63c9fe",
+      "s3VersionId" : "UVQQRylgpLInpdBm3iLF3ndHyXbVSsiL",
+      "sha256" : "3R0NwSTXn+tWh1BxZIQctIMDJJTUsl+wPXpFF/rc14E="
+    },
+    {
+      "name" : "Spat24_python_friendly.mat",
+      "path" : "files/ts_data/Spat24_python_friendly.mat",
+      "size" : 81193447,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:1495e722-b5cb-4a4a-9feb-5ced29c5cd8e",
+      "s3VersionId" : "mcWIj1dagdoYWjNmeIyVGEp1LYU.PYGa",
+      "sha256" : "3qGl+dC5gyOatXeicJK/F+45DYDAIbftCUEfp1Q8u9M="
+    },
+    {
+      "name" : "Spat26_python_friendly.mat",
+      "path" : "files/ts_data/Spat26_python_friendly.mat",
+      "size" : 601326922,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:1a66a593-0394-4a20-bdda-12d3079904b4",
+      "s3VersionId" : "jhJQ1oXOBE3SjhWRJsV_AZa2gEtMhBv5",
+      "sha256" : "8rc9H/QDi8iYoyEySZlKW6Uh3xmQOnj+RW2c5b5uTd8="
+    },
+    {
+      "name" : "Spat27_python_friendly.mat",
+      "path" : "files/ts_data/Spat27_python_friendly.mat",
+      "size" : 107501963,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:44c7e0d3-258c-40ff-8435-7a374c914009",
+      "s3VersionId" : "DIgSVSli6YVVX9.s23InTYuj0.2Av5mV",
+      "sha256" : "bT1ytz7Kydbr8gP8jeNxNl7ZL6U1tGpFHAHwgwglQRA="
+    },
+    {
+      "name" : "Spat28_python_friendly.mat",
+      "path" : "files/ts_data/Spat28_python_friendly.mat",
+      "size" : 65633144,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:99c0450c-5bc1-4358-91c4-692d681b6a5f",
+      "s3VersionId" : "UtnGvMZPQar8rDJ3yn7XUfINVwDNOcWx",
+      "sha256" : "nAfRKt02Cff6AzQzFKV/3TqTen5WP0OtUsTXlgvoDB8="
+    },
+    {
+      "name" : "Spat29_python_friendly.mat",
+      "path" : "files/ts_data/Spat29_python_friendly.mat",
+      "size" : 215229715,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:08f3c5f8-4ddc-48e4-8d20-b1c738c79f56",
+      "s3VersionId" : "url9q9G0zW36deq9xkGmRiF5IlJBduKU",
+      "sha256" : "2rOGM0N96G1IWYKcmKoxC+bj+dxFiWahamF5HxBdRVc="
+    },
+    {
+      "name" : "Spat30_python_friendly.mat",
+      "path" : "files/ts_data/Spat30_python_friendly.mat",
+      "size" : 133986407,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:90de88e8-5425-4eda-8301-ebc490077792",
+      "s3VersionId" : "UBqg3yV9aAr_2_sR_jhV2F8sKb6hq8YH",
+      "sha256" : "28mxOX03eeUNkoCwvhvnKTxchR4saZZcXCvHN6NS7Tw="
+    },
+    {
+      "name" : "Spat31_python_friendly.mat",
+      "path" : "files/ts_data/Spat31_python_friendly.mat",
+      "size" : 79957127,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:44026829-8057-4d2c-a3a7-20fa3e567d1d",
+      "s3VersionId" : "TNgHdHXTEIikx_7aSvIxoLn_TABKSocU",
+      "sha256" : "HBEL6TlIL5C212FJ7xKs02YltENaiQ7ngf8ctn4+o84="
+    },
+    {
+      "name" : "Spat32_python_friendly.mat",
+      "path" : "files/ts_data/Spat32_python_friendly.mat",
+      "size" : 281592469,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:2b1795c9-92f3-4177-9c73-916c0b8ed0b8",
+      "s3VersionId" : "xuAPdYLL1swwZyHHQVryymjS5fBnL.xe",
+      "sha256" : "4io2Q4pNsg2H1EyXnF5Gw9k6qXy5pv0xTy56+UV+hiI="
+    },
+    {
+      "name" : "Spat33_python_friendly.mat",
+      "path" : "files/ts_data/Spat33_python_friendly.mat",
+      "size" : 325065205,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:cedf4eaf-2011-4ee7-bb47-21dc7ede36b7",
+      "s3VersionId" : "j0k0Qnn.WmQyem6egE52lZDWZp2mQuci",
+      "sha256" : "uTiyujAYyvkBfRa0/UUEXyJEwWUG+M4LzGPqJdsF5Vo="
+    },
+    {
+      "name" : "Spat34_python_friendly.mat",
+      "path" : "files/ts_data/Spat34_python_friendly.mat",
+      "size" : 102711402,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:73b04076-b270-4445-840c-6e2562065db7",
+      "s3VersionId" : "aCc1un6LwbJMAKxo.6eQLfasxL11qd_U",
+      "sha256" : "c6BntgJkuYrsQ+63GIN4eD5qwty95jgk2ZFG16IhMXQ="
+    },
+    {
+      "name" : "Spat36_python_friendly.mat",
+      "path" : "files/ts_data/Spat36_python_friendly.mat",
+      "size" : 87253153,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:aba42897-f77a-4136-9ea2-a8468b0f3adf",
+      "s3VersionId" : "Tdn1syh_CzIOdjoajIdQTZXCVxQKn0EF",
+      "sha256" : "fiUdNs5Beik5EtoQMQJ16AYDLpkxn8XORFsq7/zYzec="
+    },
+    {
+      "name" : "Spat37_python_friendly.mat",
+      "path" : "files/ts_data/Spat37_python_friendly.mat",
+      "size" : 132560451,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:2a57890d-e9bc-4ff5-9184-73b9b1c631b5",
+      "s3VersionId" : "GwVT4ecjTCtSfoTRZv_pDvA94N8PBrzS",
+      "sha256" : "ezlZgK0tkjSceIo/i1aq57T6SfM34WXAq0Q+OCWFnBE="
+    },
+    {
+      "name" : "Spat39_python_friendly.mat",
+      "path" : "files/ts_data/Spat39_python_friendly.mat",
+      "size" : 87200113,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:fad460f0-495e-4498-90b0-4033c741f906",
+      "s3VersionId" : "NPBaZRvanzd0GdK7dKlndQyWbX3PDVDX",
+      "sha256" : "9uBa4frAF7CS/0M3VFwbH7m8Wn2XvHAPpTLIRnfUhgM="
+    },
+    {
+      "name" : "Spat40_python_friendly.mat",
+      "path" : "files/ts_data/Spat40_python_friendly.mat",
+      "size" : 129722829,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:fd32359e-e317-46bb-8b22-d0db5da58448",
+      "s3VersionId" : "JS.WJeFRfIM1n9HUndZKoZAItKSANa0y",
+      "sha256" : "mk3s1xAeoV3ok0vIS3JQHmy21lxZslibrVKOrF0JvR8="
+    },
+    {
+      "name" : "Spat41_python_friendly.mat",
+      "path" : "files/ts_data/Spat41_python_friendly.mat",
+      "size" : 110073011,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:c56ffa81-dd03-4a37-bf86-f43fcc9f74c5",
+      "s3VersionId" : "37tJ0foRxtVq_jyg7KAK9IWWco24lqKY",
+      "sha256" : "xMu3uK0XM08t+iQDdVwq1lKUAv8ReRLq+uyImLDj/FQ="
+    },
+    {
+      "name" : "Spat42_python_friendly.mat",
+      "path" : "files/ts_data/Spat42_python_friendly.mat",
+      "size" : 88379349,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:e25bf8c1-4891-4039-a17a-b62d89ecab4e",
+      "s3VersionId" : "DT.kCjCCu4POrl8QB1U42g.291o7gIS2",
+      "sha256" : "jbArzBWuz9nL+8RXZQep50QQ342hIpPyji5A5TL21fk="
+    },
+    {
+      "name" : "Spat44_python_friendly.mat",
+      "path" : "files/ts_data/Spat44_python_friendly.mat",
+      "size" : 160204474,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:8b35bae3-d150-4742-b4ac-15b270294da1",
+      "s3VersionId" : "drrylPjpoOmpv_4qYtMYkYOAzj6RSaox",
+      "sha256" : "/Lv702MQoXFdMedZ4rFEhmHHVLDStIpp2yIG+nCGCVg="
+    },
+    {
+      "name" : "Spat45_python_friendly.mat",
+      "path" : "files/ts_data/Spat45_python_friendly.mat",
+      "size" : 159139712,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:97f5b244-3140-4460-8607-85b8de64f64a",
+      "s3VersionId" : "rsXfltmivkJBU7EpR0ecBCOMHmALp3Jy",
+      "sha256" : "v62DlYD036IRHJTEa3vF/f430t7/UQfgpZNKtIAAjCg="
+    },
+    {
+      "name" : "Spat46_python_friendly.mat",
+      "path" : "files/ts_data/Spat46_python_friendly.mat",
+      "size" : 131350553,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:701fb613-0a70-42dd-ba8d-a4f4f850ef44",
+      "s3VersionId" : "XmhL6i7WlWbgJ3pyhvafHlApVP7DKso8",
+      "sha256" : "6FGClr4wJrVnHreqQXQM3tzdtCEblabalPyzTDt3S9U="
+    },
+    {
+      "name" : "Spat47_python_friendly.mat",
+      "path" : "files/ts_data/Spat47_python_friendly.mat",
+      "size" : 116827415,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:f974a06b-5e44-44d1-a9d7-1650409f983b",
+      "s3VersionId" : "iH7..8fB9u5MGxjWTpmp0_RMA8E.oHKi",
+      "sha256" : "VVAOiLSRhBEUfxVNXRakYHj4rK+cxKwOZ7Pjsp9qZxQ="
+    },
+    {
+      "name" : "Spat48_python_friendly.mat",
+      "path" : "files/ts_data/Spat48_python_friendly.mat",
+      "size" : 132784229,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:78286119-06fc-4085-9274-5254cb6c211f",
+      "s3VersionId" : "g6kIsc7rSj0W2s1z3O80k16y8OYQXPbe",
+      "sha256" : "JxW4s6S/lLcRcW7qm674i+E6hyIITgL9X4GkYO/r1ho="
+    },
+    {
+      "name" : "Spat49_python_friendly.mat",
+      "path" : "files/ts_data/Spat49_python_friendly.mat",
+      "size" : 83396791,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:a691a807-3ec8-46a1-a245-721f5665ec23",
+      "s3VersionId" : "23juPjrxzkCdhNG1mQRyZxfWjuPKtPnE",
+      "sha256" : "OXh3BYLYvZs3sG+E8YV5zxT3ZLjtLTVssX9We19vbno="
+    },
+    {
+      "name" : "Spat50_python_friendly.mat",
+      "path" : "files/ts_data/Spat50_python_friendly.mat",
+      "size" : 123074265,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:ec8e6b9e-0b8a-485f-b8b9-58b8f0ca6f0e",
+      "s3VersionId" : "QFWtX83N1PleNSaFaXeqv1bAn50funum",
+      "sha256" : "H1ijejdh5Hh6S+BQbHTs+HztF9Gg+ZHoxLNNZQ7EzSA="
+    },
+    {
+      "name" : "Spat51_python_friendly.mat",
+      "path" : "files/ts_data/Spat51_python_friendly.mat",
+      "size" : 110890511,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:443c5a66-33cf-401b-b8be-cfd248b78bd2",
+      "s3VersionId" : "jmdR4Z49.dbfoJAG.qfQ5H8JAf3akaSZ",
+      "sha256" : "dVfFLAIqCE5ftRqpUFE1CtY2u6phOE+xVnlUFMoKyiY="
+    },
+    {
+      "name" : "Spat52_python_friendly.mat",
+      "path" : "files/ts_data/Spat52_python_friendly.mat",
+      "size" : 119542620,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:ffd9f430-9f34-41ad-a192-426887fdad1b",
+      "s3VersionId" : "36IJakr..ggjjIiDa9ISDaRODgYu6lAQ",
+      "sha256" : "sNmRIMn5/in+671+R67I14ZvYCrcEgyG2OZnA5nBx78="
+    },
+    {
+      "name" : "Spat53_python_friendly.mat",
+      "path" : "files/ts_data/Spat53_python_friendly.mat",
+      "size" : 101251676,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:a99e2875-86ec-4d42-8e32-7987faa3db98",
+      "s3VersionId" : "KmYcZnT5xs_MS0OgFM02IxklR_TDz08r",
+      "sha256" : "rT0nYPNMOnquwuFyM5DqrIw++v+SCsB6kQJAelUq1vE="
+    },
+    {
+      "name" : "banner.jpg",
+      "path" : "banner.jpg",
+      "size" : 20255,
+      "fileType" : "JPEG",
+      "s3VersionId" : "VEbGokC1qex2UIMJTp5h.OpYr8vq4zVJ"
+    },
+    {
+      "name" : "basic_msresnet.py",
+      "path" : "files/models/basic_msresnet.py",
+      "size" : 8776,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:06b462c3-00f9-4899-92f5-7efdcc53d207",
+      "s3VersionId" : "9gOsbRBXDUn7xaAEFor9wlcbCXiAE.TW",
+      "sha256" : "7eBl04vx463E6EWzQzic64d0y6hI9C2+gfkhuGw6nPg="
+    },
+    {
+      "name" : "changelog.md",
+      "path" : "changelog.md",
+      "size" : 24,
+      "fileType" : "Markdown",
+      "s3VersionId" : "yTfjsPHUGWkZq.MKTmOCeh635zo21OBl"
+    },
+    {
+      "name" : "complete_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/complete_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 77895432,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:54e787f9-774a-41ca-918b-9eff9fe5a210",
+      "s3VersionId" : "d.NIkNa8zdjWRsLb9At4GDpnXYG6Ou7H",
+      "sha256" : "ztMJlT9EcLZphpTio1kUUjIF9Ymcr9QRlI/1+tleOGc="
+    },
+    {
+      "name" : "complete_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/complete_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 78671998,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:ba2c5280-a083-4415-8ac8-5484955f23a2",
+      "s3VersionId" : "Iu4zC7Y1FC400jXkEtaq7cXzy2PwkiS1",
+      "sha256" : "tzB3ouySj775NSIcqtq55J6drQenfYybjLvN+qDkL+w="
+    },
+    {
+      "name" : "dilated_enhanced_resnet.py",
+      "path" : "files/models/dilated_enhanced_resnet.py",
+      "size" : 7850,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:852a741c-d303-40a2-a430-883a4db44ff4",
+      "s3VersionId" : "aWLwS9kMXYUIaCbiBtBwMDcCWxfhiXsv",
+      "sha256" : "BL/toXmn7LCcHgI1cdOReb5xQCpSZ3J4EiQQYj7ZD64="
+    },
+    {
+      "name" : "fold_1_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/fold_1_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 5357922,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:05fb0a26-a081-474b-b3ff-43deeb085de0",
+      "s3VersionId" : "sZZejU6zwkcBw8Ns.5TZldFqXTWSzs2R",
+      "sha256" : "4CygTz95N6DJQ99XnbCVRWL6+5o32PQ64O0kpByEAs4="
+    },
+    {
+      "name" : "fold_1_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/fold_1_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 5436003,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:edd57787-237e-4413-a87d-645704d2f991",
+      "s3VersionId" : "nHA6S3wIfkxN3fag8RM7EeMhFrF6gPpZ",
+      "sha256" : "tvJsehXljOrdX1srPD5mDkOfeH+LF9yZ7dl1u69pe8E="
+    },
+    {
+      "name" : "fold_1_results_108_perm4_alllocs_v2_hist_model.pth",
+      "path" : "files/results/model_states/fold_1_results_108_perm4_alllocs_v2_hist_model.pth",
+      "size" : 24633936,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:0f80557b-6219-483b-815f-763ea246bf00",
+      "s3VersionId" : "Z3kY.1uGQYjxS5JiPqOguHSBDnUo8lr5",
+      "sha256" : "qNVuWG5f389GFfif13SwuD2NJRmFP6xiY56a8HGCsV4="
+    },
+    {
+      "name" : "fold_2_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/fold_2_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 11416678,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:3eba261d-c798-4c07-963d-4b5a3077ddfd",
+      "s3VersionId" : "WQCREwjk7x63pwh4lwedz_wcac3rJXRJ",
+      "sha256" : "ZQq+8/u6QFf4sjOXUH9EYUY5y2AEK8jRhKOA3rFAHMU="
+    },
+    {
+      "name" : "fold_2_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/fold_2_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 11505272,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:7ea07604-f755-4f0e-a597-813f3e81cade",
+      "s3VersionId" : ".fMVJ2f2uBLfJEMddjGYsI1_cKrwi1wf",
+      "sha256" : "UcZzd1rgvJJRMJI2kAXBq5SurcRA/jnZUUVSZIDVzZw="
+    },
+    {
+      "name" : "fold_2_results_108_perm4_alllocs_v2_hist_model.pth",
+      "path" : "files/results/model_states/fold_2_results_108_perm4_alllocs_v2_hist_model.pth",
+      "size" : 25609104,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:18a4c81b-d4bf-4eaa-b87d-fe00e7aa35ff",
+      "s3VersionId" : "QHHG50SuUsc4b6kiU2GqKIkA_OoujQVS",
+      "sha256" : "XE0/v3akEhitrm1p3LzkGctGb796nXQdVVuNGQ0xDac="
+    },
+    {
+      "name" : "fold_3_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/fold_3_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 16542087,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:f8431f31-6fc0-47d7-b10f-51abb80d3259",
+      "s3VersionId" : "cgY59mkBWrpTyBTV5c2_UJdSUmE9qJxY",
+      "sha256" : "/yl3NVWeuGDLw7JtOD/nvrodYv2m83xSvxuctH3X1h4="
+    },
+    {
+      "name" : "fold_3_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/fold_3_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 16578296,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:1e753f8c-9497-4f0a-8902-143c37642e22",
+      "s3VersionId" : "8WXw8HEZ_nCPF4D0KJpgsZ6MHao4I6qT",
+      "sha256" : "Z/0fQyYuSbUPBIO3A7mIGimwLXiNLKVg5ndPfO91nWA="
+    },
+    {
+      "name" : "fold_3_results_108_perm4_alllocs_v2_hist_model.pth",
+      "path" : "files/results/model_states/fold_3_results_108_perm4_alllocs_v2_hist_model.pth",
+      "size" : 26442448,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:cf129be6-229a-47fb-9242-764a6b24d0d6",
+      "s3VersionId" : "SnpPxG1slDQJ.KsPKwU3FCrynJUFn2DO",
+      "sha256" : "Ai5MFzpfLOavP3AfB913zYkeIFCraYpjojw1wSSg6Jw="
+    },
+    {
+      "name" : "fold_4_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/fold_4_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 19684784,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:a84600b2-d388-44a5-bac5-37d715488c12",
+      "s3VersionId" : "xVddlGjkUXhZG..9ooM_jTzf135f3HrD",
+      "sha256" : "UxPu+FlS3sZq5A5pqdrr4KkbNFFqoqBAc0DbHeHyMVk="
+    },
+    {
+      "name" : "fold_4_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/fold_4_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 19922798,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:1767ed74-cfc2-4b3d-a217-665fb0a80217",
+      "s3VersionId" : "_wYOtySyQ8d_CGNspx95PA4ePSoCl1Iy",
+      "sha256" : "IrKoiTX8TMbCPgoYxAD1GsbJQ8/kTnCDOpSwmew1P9I="
+    },
+    {
+      "name" : "fold_4_results_108_perm4_alllocs_v2_hist_model.pth",
+      "path" : "files/results/model_states/fold_4_results_108_perm4_alllocs_v2_hist_model.pth",
+      "size" : 26951760,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:85cbd845-c448-4997-8014-3da91f8dcff4",
+      "s3VersionId" : "s.6SLfpBPRQHvtVB0lXroii5hebzR80k",
+      "sha256" : "/VMLZqZAFwHgPglwmfLZZ8Zwj9/7mXW1g8j1J4hQNMo="
+    },
+    {
+      "name" : "fold_5_results_108_perm4_alllocs_v2_hist.json",
+      "path" : "files/results/results_json/fold_5_results_108_perm4_alllocs_v2_hist.json",
+      "size" : 24893531,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:2c556427-e6eb-40a8-b822-35e18fda0325",
+      "s3VersionId" : "GaG.1gI4PRlLphlJP9XAZFDOnrOwOQh1",
+      "sha256" : "qO4dGxJK/X789NHCVjamdByDxMUHCBAMeSL4+0uQ4I0="
+    },
+    {
+      "name" : "fold_5_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "path" : "files/results/results_json/fold_5_results_108_perm4_alllocs_v2_hist_RAND.json",
+      "size" : 25229186,
+      "fileType" : "Json",
+      "sourcePackageId" : "N:package:037335aa-8675-4327-b12e-9ca7bbd6569a",
+      "s3VersionId" : "InXy86NpUA30N2u5mlwPj0y_.t1O2QfW",
+      "sha256" : "G8RYsy4T7h0jiSXkljjeDINfm2rdBUMusTOLKT7THvc="
+    },
+    {
+      "name" : "fold_5_results_108_perm4_alllocs_v2_hist_model.pth",
+      "path" : "files/results/model_states/fold_5_results_108_perm4_alllocs_v2_hist_model.pth",
+      "size" : 27779472,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:82d0cb5f-1e84-45e2-b564-671d6f12b12c",
+      "s3VersionId" : "Omb8FtsB7pkU3.ylS8wkulCAoIBFRzqp",
+      "sha256" : "xssAECCmbxGgVBDFDslMG8M70ElomGdxAiyi1FtJEYM="
+    },
+    {
+      "name" : "location_accuracy.csv",
+      "path" : "files/results/location_accuracy.csv",
+      "size" : 2523,
+      "fileType" : "CSV",
+      "sourcePackageId" : "N:package:47ce4d29-0194-46f1-85f9-f46c67998514",
+      "s3VersionId" : "7pxALl4mApp8qGKlQDKl7RRK_wE6N3pn",
+      "sha256" : "/Qmp6nbd+/X/x/O7maLlbYplp/0nm9w/cxKkiLICy6E="
+    },
+    {
+      "name" : "manifest.json",
+      "path" : "manifest.json",
+      "size" : 43726,
+      "fileType" : "Json"
+    },
+    {
+      "name" : "multi_scale_ori.cpython-39.pyc",
+      "path" : "files/models/__pycache__/multi_scale_ori.cpython-39.pyc",
+      "size" : 19410,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:cd8bc52c-c3b9-4d0e-adfb-815516d9fe92",
+      "s3VersionId" : "uf6r090DCWe7V6uEAe0J158pWxJV_mlB",
+      "sha256" : "SscRU8oEGt+LpOHi/p0/Tdr/QCGNrzN2eyHMgk80w58="
+    },
+    {
+      "name" : "multi_scale_ori.py",
+      "path" : "files/models/multi_scale_ori.py",
+      "size" : 22576,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:79fc6620-40a0-4045-a90e-ecfdcca931fa",
+      "s3VersionId" : "b1YfFi_QKWB7_ssvpveazRUjchUwTvNf",
+      "sha256" : "Wz23+XFMddK0N6mBEnYv27PhCl2LX9VBFxR5D0JyWzE="
+    },
+    {
+      "name" : "pat11_python_friendly.mat",
+      "path" : "files/ts_data/pat11_python_friendly.mat",
+      "size" : 68914932,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:4b738d83-7b8a-4e6c-8594-96090b9fe1e9",
+      "s3VersionId" : "9E1Ss78tjhuF9NZd3tFBDRpa03AVTH65",
+      "sha256" : "lsSIA/q7fIszkT0wN5juRkbyhUGDXGAAGwLvYQwpAbE="
+    },
+    {
+      "name" : "pat33_python_friendly.mat",
+      "path" : "files/ts_data/pat33_python_friendly.mat",
+      "size" : 88630113,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:6e58af75-b771-484e-bf30-23f37168b7b2",
+      "s3VersionId" : "O3Vg2PgBsxefby.Ke63vdFPKj2kChIgf",
+      "sha256" : "j35GKaDpsPe3Z6U9nxj92M6QpbbsuHCDzFg6wNKx/AU="
+    },
+    {
+      "name" : "plot_shap.py",
+      "path" : "files/analysis/plot_shap.py",
+      "size" : 13762,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:200ba7af-2a38-468c-b82d-7cface4deb11",
+      "s3VersionId" : "yxLf_b_D2RE1efwl9O61Pv0CmnrrBsOT",
+      "sha256" : "jERKugE7NdxYrwtcJ7m4vYAYWPxtLS2r6txOEDKXhj8="
+    },
+    {
+      "name" : "plot_shap_location.py",
+      "path" : "files/analysis/plot_shap_location.py",
+      "size" : 13311,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:c53a82c3-134b-480c-a63d-5e83f4adfad5",
+      "s3VersionId" : "55gHfuz6q8kNu6bq4mqVqSprY.bcP2za",
+      "sha256" : "BBZgVinO/Ord7qbliSvPyXAU/LDuHB4e1RDEmdztliw="
+    },
+    {
+      "name" : "plot_shap_morphology.py",
+      "path" : "files/analysis/plot_shap_morphology.py",
+      "size" : 17254,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:76dbcb05-0bfd-4db2-bbc3-1d98a0e48035",
+      "s3VersionId" : "ty6Io9r4w6O5JgC07eI3kOq6KGSKIjeK",
+      "sha256" : "vzjcj6iK6cjhkZg5eN5erkGG+BB3wgJWKKj6cDKzL+0="
+    },
+    {
+      "name" : "plot_shap_multimodel.py",
+      "path" : "files/analysis/plot_shap_multimodel.py",
+      "size" : 44479,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:b0ce7a8b-d65f-4b53-9566-d4c4fa30cff1",
+      "s3VersionId" : "C7lOSy5B69El2MRAmmvMmmRUX2F9Q9zQ",
+      "sha256" : "wROs0SHFSqtuDQZP1zCgHsOjS830eeV2/9k7ujSBM2M="
+    },
+    {
+      "name" : "plot_shap_onelocation.py",
+      "path" : "files/analysis/plot_shap_onelocation.py",
+      "size" : 18233,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:4178aadd-e635-40e8-9ddb-c85ad99f2fe8",
+      "s3VersionId" : "XQr6__VLl8wqWeAJDbP0C09rcFzjtgqz",
+      "sha256" : "H7xrkzOhF6TH5+VC1Eo9KICpwzIp1ahvB8YKem+uPzo="
+    },
+    {
+      "name" : "plotting.py",
+      "path" : "files/analysis/plotting.py",
+      "size" : 62625,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:425e158e-c95b-411e-a966-3a03389e7a8f",
+      "s3VersionId" : "3KOYNghlrrRPdZeuXqgOMVv8itzvatSg",
+      "sha256" : "DgR7WJ0xDLvpaAp/lO1CIh/wJ/PUcsG9cOnOSZXRO+k="
+    },
+    {
+      "name" : "readme.md",
+      "path" : "readme.md",
+      "size" : 686,
+      "fileType" : "Markdown",
+      "s3VersionId" : "oo0oOL8UWK8dD.y10mDXe_.MDPTr5ijp"
+    },
+    {
+      "name" : "seeg_classify_all.py",
+      "path" : "files/seeg_classify_all.py",
+      "size" : 110020,
+      "fileType" : "Python",
+      "sourcePackageId" : "N:package:56499501-808d-442e-ac0c-1cbe0772ab98",
+      "s3VersionId" : "TZJnE5v1x_kWtGs9WJT1cSmPYkaiFUKi",
+      "sha256" : "wIFtDGuY0g6LQtRKhM+/yGvR0QwL8GtnUiz96nKniEo="
+    }
+  ],
+  "pennsieveSchemaVersion" : "5.0"
+}

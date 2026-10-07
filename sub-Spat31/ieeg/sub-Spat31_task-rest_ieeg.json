@@ -1,0 +1,34 @@
+{
+  "TaskName": "rest",
+  "TaskDescription": "Awake resting state, eyes closed; patients told to keep their eyes closed and try not to fall asleep; recorded at least 4 hours apart from electroclinical activity (paper, Methods).",
+  "Instructions": "Keep eyes closed and try not to fall asleep (paper, Methods).",
+  "SamplingFrequency": 512.0,
+  "PowerLineFrequency": 60,
+  "RecordingDuration": 300.0,
+  "RecordingType": "continuous",
+  "iEEGReference": "bipolar (adjacent contacts, release labels 'A1 - A2')",
+  "SoftwareFilters": {
+    "Butterworth_bandpass_filtfilt": {
+      "passbands_Hz": [
+        [
+          1,
+          59
+        ],
+        [
+          61,
+          119
+        ],
+        [
+          121,
+          150
+        ]
+      ],
+      "implementation": "MATLAB filtfilt (zero-phase), per the paper"
+    }
+  },
+  "SEEGChannelCount": 67,
+  "ECOGChannelCount": 0,
+  "Manufacturer": "n/a",
+  "iEEGGround": "n/a",
+  "iEEGPlacementScheme": "clinically determined"
+}

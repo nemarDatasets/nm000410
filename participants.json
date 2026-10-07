@@ -1,0 +1,8 @@
+{
+  "release_id": {
+    "Description": "Patient code in the release file names (<code>_python_friendly.mat); prefixes as given by the authors, meaning not stated in the release"
+  },
+  "cv_test_fold": {
+    "Description": "Cross-validation fold (1-5) in which the patient was in the test set, from the authors' complete_results_108_perm4_alllocs_v2_hist.json; n/a if the patient is not in any fold"
+  }
+}
