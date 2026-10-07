@@ -1,44 +1,44 @@
-name	x	y	z	size	region
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-I8-I9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-I9-I10	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF2-OF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF3-OF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF9-OF10	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-P8-P9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-P9-P10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC5-AC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC4-PC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC5-PC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC6-PC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC7-PC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC8-PC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PC9-PC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-H6-H7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-H7-H8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-H8-H9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A6-A7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A7-A8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A8-A9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-I1-I2	n/a	n/a	n/a	n/a	ctx-lh-insula
-I2-I3	n/a	n/a	n/a	n/a	ctx-lh-insula
-I3-I4	n/a	n/a	n/a	n/a	ctx-lh-insula
-I4-I5	n/a	n/a	n/a	n/a	ctx-lh-insula
-I5-I6	n/a	n/a	n/a	n/a	ctx-lh-insula
-H1-H2	n/a	n/a	n/a	n/a	Left-Hippocampus
-H2-H3	n/a	n/a	n/a	n/a	Left-Hippocampus
-H3-H4	n/a	n/a	n/a	n/a	Left-Hippocampus
-A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala
-A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala
-A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala
-A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala
+name	x	y	z	size	region	soz_region_label
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+I8-I9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	n/a
+I9-I10	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	n/a
+OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF2-OF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF3-OF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF9-OF10	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	n/a
+P8-P9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	n/a
+P9-P10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	n/a
+AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC5-AC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC4-PC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC5-PC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC6-PC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC7-PC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC8-PC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PC9-PC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+H6-H7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+H7-H8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+H8-H9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A6-A7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A7-A8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A8-A9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+I1-I2	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+I2-I3	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+I3-I4	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+I4-I5	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+I5-I6	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+H1-H2	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+H2-H3	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+H3-H4	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala	no

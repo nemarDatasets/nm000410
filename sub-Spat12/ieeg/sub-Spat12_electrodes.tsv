@@ -1,27 +1,27 @@
-name	x	y	z	size	region
-LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LOF1-LOF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF2-LOF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF3-LOF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF4-LOF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF5-LOF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LA7-LA8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LA8-LA9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LA9-LA10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH6-LH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH7-LH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH8-LH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH9-LH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTT5-LTT6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTT6-LTT7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTT7-LTT8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LOF9-LOF10	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LI3-LI4	n/a	n/a	n/a	n/a	ctx-lh-insula
-LI4-LI5	n/a	n/a	n/a	n/a	ctx-lh-insula
-LI5-LI6	n/a	n/a	n/a	n/a	ctx-lh-insula
-LH1-LH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LH2-LH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LA1-LA2	n/a	n/a	n/a	n/a	Left-Amygdala
-LA2-LA3	n/a	n/a	n/a	n/a	Left-Amygdala
-LTT1-LTT2	n/a	n/a	n/a	n/a	Left-Amygdala
-LTT2-LTT3	n/a	n/a	n/a	n/a	Left-Amygdala
+name	x	y	z	size	region	soz_region_label
+LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	n/a
+LOF1-LOF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+LOF2-LOF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+LOF3-LOF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+LOF4-LOF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+LOF5-LOF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+LA7-LA8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LA8-LA9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LA9-LA10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LH6-LH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LH7-LH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LH8-LH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LH9-LH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTT5-LTT6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTT6-LTT7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTT7-LTT8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LOF9-LOF10	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	n/a
+LI3-LI4	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LI4-LI5	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LI5-LI6	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LH1-LH2	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+LH2-LH3	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+LA1-LA2	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LA2-LA3	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LTT1-LTT2	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LTT2-LTT3	n/a	n/a	n/a	n/a	Left-Amygdala	yes

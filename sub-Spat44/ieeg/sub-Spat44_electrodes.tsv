@@ -1,135 +1,135 @@
-name	x	y	z	size	region
-LFone1-LFone2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-LOone1-LOone2	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-LOone2-LOone3	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-LBTa3-LBTa4	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LBTa4-LBTa5	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LTOtwo9-LTOtwo10	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LTOtwo10-LTOtwo11	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LOone9-LOone10	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LOone10-LOone11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LOone11-LOone12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LOone12-LOone13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LTOone10-LTOone11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LTOone11-LTOone12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LTOone12-LTOone13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LTOone13-LTOone14	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr6-LPthr7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr7-LPthr8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr8-LPthr9	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr9-LPthr10	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr10-LPthr11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr11-LPthr12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr12-LPthr13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr13-LPthr14	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LPthr14-LPthr15	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LBTa6-LBTa7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LBTa7-LBTa8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LBTa8-LBTa9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LBTa9-LBTa10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LOtwo8-LOtwo9	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo9-LOtwo10	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo10-LOtwo11	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo11-LOtwo12	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo12-LOtwo13	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo13-LOtwo14	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LTOtwo12-LTOtwo13	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LTOtwo13-LTOtwo14	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LOtwo1-LOtwo2	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LOtwo2-LOtwo3	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LOtwo3-LOtwo4	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LOtwo4-LOtwo5	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LOtwo5-LOtwo6	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LOtwo6-LOtwo7	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo1-LTOtwo2	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo2-LTOtwo3	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo3-LTOtwo4	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo4-LTOtwo5	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo5-LTOtwo6	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo6-LTOtwo7	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LTOtwo7-LTOtwo8	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LBTp7-LBTp8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LBTp8-LBTp9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LBTp9-LBTp10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LBTp10-LBTp11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LBTp11-LBTp12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH9-LAH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH10-LAH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LBTa1-LBTa2	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal
-LFtwo4-LFtwo5	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-LFtwo5-LFtwo6	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-LFtwo6-LFtwo7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-LFtwo7-LFtwo8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-LFone11-LFone12	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LFone12-LFone13	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LFone13-LFone14	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LPone1-LPone2	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone2-LPone3	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone3-LPone4	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone4-LPone5	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone5-LPone6	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone6-LPone7	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone7-LPone8	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone8-LPone9	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPone9-LPone10	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LPtwo1-LPtwo2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LPtwo2-LPtwo3	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LPtwo3-LPtwo4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LPtwo4-LPtwo5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LPtwo5-LPtwo6	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LPtwo6-LPtwo7	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-LTOone1-LTOone2	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone2-LTOone3	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone3-LTOone4	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone4-LTOone5	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone5-LTOone6	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone6-LTOone7	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LTOone7-LTOone8	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LPthr1-LPthr2	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LPthr2-LPthr3	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LPthr3-LPthr4	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LPthr4-LPthr5	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LOone5-LOone6	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal
-LOone6-LOone7	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal
-LOone7-LOone8	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal
-LPH6-LPH7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPH7-LPH8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPH8-LPH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPH9-LPH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPH10-LPH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPH11-LPH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIp5-LTIp6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIp6-LTIp7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIp7-LTIp8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIp8-LTIp9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIp9-LTIp10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIa5-LTIa6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIa6-LTIa7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LTIa7-LTIa8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LPtwo13-LPtwo14	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LPtwo14-LPtwo15	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LPtwo15-LPtwo16	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LTP1-LTP2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP2-LTP3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP3-LTP4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP4-LTP5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP5-LTP6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP6-LTP7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LTP7-LTP8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LFtwo1-LFtwo2	n/a	n/a	n/a	n/a	ctx-lh-insula
-LFtwo2-LFtwo3	n/a	n/a	n/a	n/a	ctx-lh-insula
-LTIp1-LTIp2	n/a	n/a	n/a	n/a	ctx-lh-insula
-LTIp2-LTIp3	n/a	n/a	n/a	n/a	ctx-lh-insula
-LTIp3-LTIp4	n/a	n/a	n/a	n/a	ctx-lh-insula
-LTIa2-LTIa3	n/a	n/a	n/a	n/a	ctx-lh-insula
-LTIa3-LTIa4	n/a	n/a	n/a	n/a	ctx-lh-insula
-LPH1-LPH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LPH2-LPH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LBTp1-LBTp2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LBTp2-LBTp3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LBTp3-LBTp4	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus
+name	x	y	z	size	region	soz_region_label
+LFone1-LFone2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+LOone1-LOone2	n/a	n/a	n/a	n/a	ctx-lh-cuneus	n/a
+LOone2-LOone3	n/a	n/a	n/a	n/a	ctx-lh-cuneus	n/a
+LBTa3-LBTa4	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+LBTa4-LBTa5	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+LTOtwo9-LTOtwo10	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+LTOtwo10-LTOtwo11	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+LOone9-LOone10	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LOone10-LOone11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LOone11-LOone12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LOone12-LOone13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LTOone10-LTOone11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LTOone11-LTOone12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LTOone12-LTOone13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LTOone13-LTOone14	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr6-LPthr7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr7-LPthr8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr8-LPthr9	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr9-LPthr10	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr10-LPthr11	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr11-LPthr12	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr12-LPthr13	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr13-LPthr14	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LPthr14-LPthr15	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	n/a
+LBTa6-LBTa7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+LBTa7-LBTa8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+LBTa8-LBTa9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+LBTa9-LBTa10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+LOtwo8-LOtwo9	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo9-LOtwo10	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo10-LOtwo11	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo11-LOtwo12	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo12-LOtwo13	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo13-LOtwo14	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LTOtwo12-LTOtwo13	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LTOtwo13-LTOtwo14	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	n/a
+LOtwo1-LOtwo2	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LOtwo2-LOtwo3	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LOtwo3-LOtwo4	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LOtwo4-LOtwo5	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LOtwo5-LOtwo6	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LOtwo6-LOtwo7	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo1-LTOtwo2	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo2-LTOtwo3	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo3-LTOtwo4	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo4-LTOtwo5	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo5-LTOtwo6	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo6-LTOtwo7	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LTOtwo7-LTOtwo8	n/a	n/a	n/a	n/a	ctx-lh-lingual	n/a
+LBTp7-LBTp8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LBTp8-LBTp9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LBTp9-LBTp10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LBTp10-LBTp11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LBTp11-LBTp12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH9-LAH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH10-LAH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LBTa1-LBTa2	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal	n/a
+LFtwo4-LFtwo5	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+LFtwo5-LFtwo6	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+LFtwo6-LFtwo7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+LFtwo7-LFtwo8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+LFone11-LFone12	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	n/a
+LFone12-LFone13	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	n/a
+LFone13-LFone14	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	n/a
+LPone1-LPone2	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone2-LPone3	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone3-LPone4	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone4-LPone5	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone5-LPone6	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone6-LPone7	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone7-LPone8	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone8-LPone9	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPone9-LPone10	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LPtwo1-LPtwo2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LPtwo2-LPtwo3	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LPtwo3-LPtwo4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LPtwo4-LPtwo5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LPtwo5-LPtwo6	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LPtwo6-LPtwo7	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+LTOone1-LTOone2	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone2-LTOone3	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone3-LTOone4	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone4-LTOone5	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone5-LTOone6	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone6-LTOone7	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LTOone7-LTOone8	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LPthr1-LPthr2	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LPthr2-LPthr3	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LPthr3-LPthr4	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LPthr4-LPthr5	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LOone5-LOone6	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal	n/a
+LOone6-LOone7	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal	n/a
+LOone7-LOone8	n/a	n/a	n/a	n/a	ctx-lh-superiorparietal	n/a
+LPH6-LPH7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPH7-LPH8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPH8-LPH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPH9-LPH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPH10-LPH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPH11-LPH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIp5-LTIp6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIp6-LTIp7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIp7-LTIp8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIp8-LTIp9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIp9-LTIp10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIa5-LTIa6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIa6-LTIa7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LTIa7-LTIa8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	yes
+LPtwo13-LPtwo14	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LPtwo14-LPtwo15	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LPtwo15-LPtwo16	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LTP1-LTP2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP2-LTP3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP3-LTP4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP4-LTP5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP5-LTP6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP6-LTP7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LTP7-LTP8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+LFtwo1-LFtwo2	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LFtwo2-LFtwo3	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LTIp1-LTIp2	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LTIp2-LTIp3	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LTIp3-LTIp4	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LTIa2-LTIa3	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LTIa3-LTIa4	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LPH1-LPH2	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LPH2-LPH3	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LBTp1-LBTp2	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LBTp2-LBTp3	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LBTp3-LBTp4	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus	no

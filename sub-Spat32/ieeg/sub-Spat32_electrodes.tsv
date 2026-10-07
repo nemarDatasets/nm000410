@@ -1,119 +1,119 @@
-name	x	y	z	size	region
-H1-1-H1-2	n/a	n/a	n/a	n/a	Right-Hippocampus
-H1-2-H1-3	n/a	n/a	n/a	n/a	Right-Hippocampus
-H1-3-H1-4	n/a	n/a	n/a	n/a	Right-Hippocampus
-H1-4-H1-5	n/a	n/a	n/a	n/a	Right-Hippocampus
-PS-8-PS-9	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PS-9-PS-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PS-10-PS-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PS-11-PS-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PS-12-PS-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-OP-9-OP-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-OP-10-OP-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-OP-11-OP-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-OP-12-OP-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-OP-13-OP-14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-7-PI-8	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-8-PI-9	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-9-PI-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-10-PI-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-11-PI-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-12-PI-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-13-PI-14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PI-14-PI-15	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-Sobl-1-Sobl-2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-Sobl-2-Sobl-3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-Sobl-3-Sobl-4	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-Sobl-4-Sobl-5	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-PI-1-PI-2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-PI-2-PI-3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-PI-3-PI-4	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-H1-8-H1-9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H1-9-H1-10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H1-10-H1-11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H1-11-H1-12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H1-12-H1-13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H2-1-H2-2	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-H2-2-H2-3	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-H2-3-H2-4	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-H2-4-H2-5	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-Mobl-6-Mobl-7	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-AS-1-AS-2	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-AS-2-AS-3	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-AI-9-AI-10	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AI-10-AI-11	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AI-11-AI-12	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AI-12-AI-13	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AI-13-AI-14	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AI-14-AI-15	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-Mobl-1-Mobl-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Mobl-2-Mobl-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Mobl-3-Mobl-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Mobl-4-Mobl-5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Aobl-1-Aobl-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Aobl-2-Aobl-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Aobl-3-Aobl-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-AI-1-AI-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-AI-2-AI-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-AI-3-AI-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-Mobl-11-Mobl-12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-Mobl-12-Mobl-13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-Mobl-13-Mobl-14	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-7-AS-8	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-8-AS-9	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-9-AS-10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-10-AS-11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-11-AS-12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AS-12-AS-13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-Sobl-6-Sobl-7	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Sobl-7-Sobl-8	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Sobl-8-Sobl-9	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Sobl-9-Sobl-10	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Sobl-10-Sobl-11	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PS-1-PS-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PS-2-PS-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PS-3-PS-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MS-1-MS-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-1-Pobl-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-2-Pobl-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-3-Pobl-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-4-Pobl-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-5-Pobl-6	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-6-Pobl-7	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-7-Pobl-8	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-8-Pobl-9	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-9-Pobl-10	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Pobl-10-Pobl-11	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-OP-3-OP-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-OP-4-OP-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MI-1-MI-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MI-2-MI-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MI-3-MI-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MI-4-MI-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-Aobl-5-Aobl-6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-Aobl-6-Aobl-7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-Aobl-11-Aobl-12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-Sobl-12-Sobl-13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-Sobl-13-Sobl-14	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-PS-5-PS-6	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-PS-6-PS-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-3-MS-4	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-4-MS-5	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-5-MS-6	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-6-MS-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-7-MS-8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-8-MS-9	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-Pobl-12-Pobl-13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-Pobl-13-Pobl-14	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-OP-1-OP-2	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-OP-6-OP-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-OP-7-OP-8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MS-10-MS-11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MS-11-MS-12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MS-12-MS-13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-10-MI-11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-11-MI-12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-12-MI-13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-13-MI-14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-14-MI-15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-MI-15-MI-16	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
+name	x	y	z	size	region	soz_region_label
+H1-1-H1-2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H1-2-H1-3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H1-3-H1-4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H1-4-H1-5	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+PS-8-PS-9	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PS-9-PS-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PS-10-PS-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PS-11-PS-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PS-12-PS-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+OP-9-OP-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+OP-10-OP-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+OP-11-OP-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+OP-12-OP-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+OP-13-OP-14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-7-PI-8	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-8-PI-9	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-9-PI-10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-10-PI-11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-11-PI-12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-12-PI-13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-13-PI-14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+PI-14-PI-15	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	yes
+Sobl-1-Sobl-2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+Sobl-2-Sobl-3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+Sobl-3-Sobl-4	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+Sobl-4-Sobl-5	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+PI-1-PI-2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+PI-2-PI-3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+PI-3-PI-4	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+H1-8-H1-9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H1-9-H1-10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H1-10-H1-11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H1-11-H1-12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H1-12-H1-13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H2-1-H2-2	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	no
+H2-2-H2-3	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	no
+H2-3-H2-4	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	no
+H2-4-H2-5	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	no
+Mobl-6-Mobl-7	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+AS-1-AS-2	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+AS-2-AS-3	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+AI-9-AI-10	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+AI-10-AI-11	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+AI-11-AI-12	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+AI-12-AI-13	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+AI-13-AI-14	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+AI-14-AI-15	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+Mobl-1-Mobl-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Mobl-2-Mobl-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Mobl-3-Mobl-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Mobl-4-Mobl-5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Aobl-1-Aobl-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Aobl-2-Aobl-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Aobl-3-Aobl-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+AI-1-AI-2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+AI-2-AI-3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+AI-3-AI-4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+Mobl-11-Mobl-12	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+Mobl-12-Mobl-13	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+Mobl-13-Mobl-14	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-7-AS-8	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-8-AS-9	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-9-AS-10	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-10-AS-11	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-11-AS-12	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AS-12-AS-13	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+Sobl-6-Sobl-7	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Sobl-7-Sobl-8	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Sobl-8-Sobl-9	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Sobl-9-Sobl-10	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Sobl-10-Sobl-11	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PS-1-PS-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PS-2-PS-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PS-3-PS-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MS-1-MS-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-1-Pobl-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-2-Pobl-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-3-Pobl-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-4-Pobl-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-5-Pobl-6	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-6-Pobl-7	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-7-Pobl-8	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-8-Pobl-9	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-9-Pobl-10	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Pobl-10-Pobl-11	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+OP-3-OP-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+OP-4-OP-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MI-1-MI-2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MI-2-MI-3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MI-3-MI-4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MI-4-MI-5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+Aobl-5-Aobl-6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	n/a
+Aobl-6-Aobl-7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	n/a
+Aobl-11-Aobl-12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	n/a
+Sobl-12-Sobl-13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+Sobl-13-Sobl-14	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+PS-5-PS-6	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+PS-6-PS-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-3-MS-4	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-4-MS-5	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-5-MS-6	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-6-MS-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-7-MS-8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-8-MS-9	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+Pobl-12-Pobl-13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+Pobl-13-Pobl-14	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+OP-1-OP-2	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+OP-6-OP-7	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+OP-7-OP-8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+MS-10-MS-11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MS-11-MS-12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MS-12-MS-13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-10-MI-11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-11-MI-12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-12-MI-13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-13-MI-14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-14-MI-15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+MI-15-MI-16	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no

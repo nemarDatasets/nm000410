@@ -1,80 +1,80 @@
-participant_id	release_id	cv_test_fold
-sub-Epat02	Epat02	4
-sub-Epat03	Epat03	1
-sub-Epat04	Epat04	2
-sub-Epat05	Epat05	1
-sub-Epat06	Epat06	1
-sub-Epat08	Epat08	1
-sub-Epat09	Epat09	n/a
-sub-Epat10	Epat10	1
-sub-Epat11	Epat11	3
-sub-Epat13	Epat13	5
-sub-Epat14	Epat14	5
-sub-Epat15	Epat15	2
-sub-Epat17	Epat17	5
-sub-Epat18	Epat18	4
-sub-Epat19	Epat19	3
-sub-Epat20	Epat20	2
-sub-Epat21	Epat21	3
-sub-Epat23	Epat23	5
-sub-Epat24	Epat24	5
-sub-Epat25	Epat25	2
-sub-Epat26	Epat26	5
-sub-Epat27	Epat27	5
-sub-Epat28	Epat28	4
-sub-Epat30	Epat30	4
-sub-Epat31	Epat31	1
-sub-Epat33	Epat33	5
-sub-Epat34	Epat34	5
-sub-Epat35	Epat35	2
-sub-Epat37	Epat37	5
-sub-Epat38	Epat38	4
-sub-Epat39	Epat39	4
-sub-Epat41	Epat41	3
-sub-Epat43	Epat43	4
-sub-Spat02	Spat02	1
-sub-Spat03	Spat03	2
-sub-Spat05	Spat05	2
-sub-Spat06	Spat06	3
-sub-Spat07	Spat07	2
-sub-Spat08	Spat08	1
-sub-Spat09	Spat09	1
-sub-Spat10	Spat10	1
-sub-Spat11	Spat11	2
-sub-Spat12	Spat12	1
-sub-Spat13	Spat13	1
-sub-Spat14	Spat14	5
-sub-Spat17	Spat17	1
-sub-Spat18	Spat18	5
-sub-Spat19	Spat19	2
-sub-Spat20	Spat20	4
-sub-Spat22	Spat22	2
-sub-Spat23	Spat23	4
-sub-Spat24	Spat24	3
-sub-Spat26	Spat26	4
-sub-Spat27	Spat27	3
-sub-Spat28	Spat28	1
-sub-Spat29	Spat29	5
-sub-Spat30	Spat30	5
-sub-Spat31	Spat31	2
-sub-Spat32	Spat32	3
-sub-Spat33	Spat33	3
-sub-Spat34	Spat34	3
-sub-Spat36	Spat36	3
-sub-Spat37	Spat37	5
-sub-Spat39	Spat39	2
-sub-Spat40	Spat40	3
-sub-Spat41	Spat41	3
-sub-Spat42	Spat42	3
-sub-Spat44	Spat44	1
-sub-Spat45	Spat45	4
-sub-Spat46	Spat46	4
-sub-Spat47	Spat47	5
-sub-Spat48	Spat48	4
-sub-Spat49	Spat49	3
-sub-Spat50	Spat50	4
-sub-Spat51	Spat51	5
-sub-Spat52	Spat52	4
-sub-Spat53	Spat53	5
-sub-pat11	pat11	2
-sub-pat33	pat33	2
+participant_id	release_id	cv_test_fold	diagnosis	implant_type	n_bipolar_channels	implanted_hemisphere	soz_summary
+sub-Epat02	Epat02	4	epilepsy (drug-resistant)	sEEG	69	bilateral	none_of_evaluated_regions
+sub-Epat03	Epat03	1	epilepsy (drug-resistant)	sEEG	43	left	none_of_evaluated_regions
+sub-Epat04	Epat04	2	epilepsy (drug-resistant)	sEEG	63	bilateral	none_of_evaluated_regions
+sub-Epat05	Epat05	1	epilepsy (drug-resistant)	sEEG	51	bilateral	none_of_evaluated_regions
+sub-Epat06	Epat06	1	epilepsy (drug-resistant)	sEEG	38	right	RIGHT-HIPPOCAMPUS
+sub-Epat08	Epat08	1	epilepsy (drug-resistant)	sEEG	42	bilateral	RIGHT-HIPPOCAMPUS
+sub-Epat09	Epat09	n/a	epilepsy (drug-resistant)	sEEG	65	bilateral	n/a
+sub-Epat10	Epat10	1	epilepsy (drug-resistant)	sEEG	52	right	CTX-RH-CAUDALMIDDLEFRONTAL;CTX-RH-ROSTRALMIDDLEFRONTAL
+sub-Epat11	Epat11	3	epilepsy (drug-resistant)	sEEG	69	bilateral	none_of_evaluated_regions
+sub-Epat13	Epat13	5	epilepsy (drug-resistant)	sEEG	100	bilateral	LEFT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat14	Epat14	5	epilepsy (drug-resistant)	sEEG	124	bilateral	CTX-RH-LATERALORBITOFRONTAL
+sub-Epat15	Epat15	2	epilepsy (drug-resistant)	sEEG	70	left	none_of_evaluated_regions
+sub-Epat17	Epat17	5	epilepsy (drug-resistant)	sEEG	113	bilateral	LEFT-AMYGDALA;LEFT-HIPPOCAMPUS
+sub-Epat18	Epat18	4	epilepsy (drug-resistant)	sEEG	96	bilateral	LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Epat19	Epat19	3	epilepsy (drug-resistant)	sEEG	71	bilateral	LEFT-HIPPOCAMPUS
+sub-Epat20	Epat20	2	epilepsy (drug-resistant)	sEEG	84	right	CTX-RH-INSULA;CTX-RH-POSTCENTRAL;CTX-RH-PRECENTRAL;CTX-RH-SUPRAMARGINAL
+sub-Epat21	Epat21	3	epilepsy (drug-resistant)	sEEG	94	bilateral	CTX-RH-INFERIORTEMPORAL
+sub-Epat23	Epat23	5	epilepsy (drug-resistant)	sEEG	105	bilateral	LEFT-HIPPOCAMPUS;RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat24	Epat24	5	epilepsy (drug-resistant)	sEEG	117	right	CTX-RH-INSULA;RIGHT-HIPPOCAMPUS
+sub-Epat25	Epat25	2	epilepsy (drug-resistant)	sEEG	72	left	LEFT-HIPPOCAMPUS
+sub-Epat26	Epat26	5	epilepsy (drug-resistant)	sEEG	103	bilateral	CTX-LH-FUSIFORM;LEFT-AMYGDALA;LEFT-HIPPOCAMPUS;RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat27	Epat27	5	epilepsy (drug-resistant)	sEEG	95	bilateral	CTX-LH-SUPERIORTEMPORAL;CTX-LH-TEMPORALPOLE;CTX-RH-TEMPORALPOLE;LEFT-AMYGDALA;LEFT-HIPPOCAMPUS;RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat28	Epat28	4	epilepsy (drug-resistant)	sEEG	113	bilateral	RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat30	Epat30	4	epilepsy (drug-resistant)	sEEG	90	bilateral	CTX-RH-INSULA
+sub-Epat31	Epat31	1	epilepsy (drug-resistant)	sEEG	58	right	RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Epat33	Epat33	5	epilepsy (drug-resistant)	sEEG	106	bilateral	LEFT-AMYGDALA;LEFT-HIPPOCAMPUS
+sub-Epat34	Epat34	5	epilepsy (drug-resistant)	sEEG	108	bilateral	LEFT-HIPPOCAMPUS
+sub-Epat35	Epat35	2	epilepsy (drug-resistant)	sEEG	77	right	RIGHT-HIPPOCAMPUS
+sub-Epat37	Epat37	5	epilepsy (drug-resistant)	sEEG	124	bilateral	CTX-LH-INSULA;CTX-RH-INSULA
+sub-Epat38	Epat38	4	epilepsy (drug-resistant)	sEEG	109	bilateral	LEFT-AMYGDALA;LEFT-HIPPOCAMPUS
+sub-Epat39	Epat39	4	epilepsy (drug-resistant)	sEEG	75	left	CTX-LH-TEMPORALPOLE;LEFT-HIPPOCAMPUS
+sub-Epat41	Epat41	3	epilepsy (drug-resistant)	sEEG	95	bilateral	LEFT-AMYGDALA;LEFT-HIPPOCAMPUS
+sub-Epat43	Epat43	4	epilepsy (drug-resistant)	sEEG	89	left	CTX-LH-INSULA;CTX-LH-LATERALORBITOFRONTAL;CTX-LH-MIDDLETEMPORAL;CTX-LH-TEMPORALPOLE;LEFT-HIPPOCAMPUS
+sub-Spat02	Spat02	1	epilepsy (drug-resistant)	sEEG	53	bilateral	CTX-RH-MIDDLETEMPORAL;RIGHT-HIPPOCAMPUS
+sub-Spat03	Spat03	2	epilepsy (drug-resistant)	sEEG	58	bilateral	CTX-LH-PRECENTRAL;CTX-LH-SUPERIORPARIETAL
+sub-Spat05	Spat05	2	epilepsy (drug-resistant)	sEEG	58	right	RIGHT-HIPPOCAMPUS
+sub-Spat06	Spat06	3	epilepsy (drug-resistant)	sEEG	76	bilateral	CTX-RH-LATERALORBITOFRONTAL;LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Spat07	Spat07	2	epilepsy (drug-resistant)	sEEG	66	bilateral	none_of_evaluated_regions
+sub-Spat08	Spat08	1	epilepsy (drug-resistant)	sEEG	52	bilateral	CTX-LH-INFERIORPARIETAL;CTX-LH-INFERIORTEMPORAL;CTX-LH-LATERALOCCIPITAL;CTX-LH-LINGUAL
+sub-Spat09	Spat09	1	epilepsy (drug-resistant)	sEEG	60	bilateral	RIGHT-HIPPOCAMPUS
+sub-Spat10	Spat10	1	epilepsy (drug-resistant)	sEEG	46	bilateral	CTX-RH-SUPERIORFRONTAL
+sub-Spat11	Spat11	2	epilepsy (drug-resistant)	sEEG	59	right	CTX-RH-CAUDALMIDDLEFRONTAL;CTX-RH-MIDDLETEMPORAL;CTX-RH-SUPERIORFRONTAL
+sub-Spat12	Spat12	1	epilepsy (drug-resistant)	sEEG	26	left	LEFT-AMYGDALA
+sub-Spat13	Spat13	1	epilepsy (drug-resistant)	sEEG	42	bilateral	CTX-LH-PARSORBITALIS
+sub-Spat14	Spat14	5	epilepsy (drug-resistant)	sEEG	120	bilateral	CTX-LH-LATERALORBITOFRONTAL;CTX-LH-PARSORBITALIS;CTX-LH-PARSTRIANGULARIS;CTX-RH-LATERALORBITOFRONTAL;CTX-RH-PARSORBITALIS;CTX-RH-PARSTRIANGULARIS;CTX-RH-ROSTRALMIDDLEFRONTAL;CTX-RH-SUPERIORFRONTAL
+sub-Spat17	Spat17	1	epilepsy (drug-resistant)	sEEG	42	bilateral	CTX-LH-INFERIORPARIETAL
+sub-Spat18	Spat18	5	epilepsy (drug-resistant)	sEEG	141	bilateral	CTX-LH-INSULA;CTX-LH-SUPERIORFRONTAL;CTX-LH-SUPERIORTEMPORAL
+sub-Spat19	Spat19	2	epilepsy (drug-resistant)	sEEG	83	right	CTX-RH-POSTERIORCINGULATE;CTX-RH-PRECENTRAL;CTX-RH-SUPERIORFRONTAL
+sub-Spat20	Spat20	4	epilepsy (drug-resistant)	sEEG	94	bilateral	LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Spat22	Spat22	2	epilepsy (drug-resistant)	sEEG	87	right	CTX-RH-LATERALORBITOFRONTAL
+sub-Spat23	Spat23	4	epilepsy (drug-resistant)	sEEG	126	left	CTX-LH-FUSIFORM;CTX-LH-INFERIORTEMPORAL
+sub-Spat24	Spat24	3	epilepsy (drug-resistant)	sEEG	68	bilateral	CTX-RH-BANKSSTS;CTX-RH-LINGUAL;CTX-RH-PARAHIPPOCAMPAL;LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Spat26	Spat26	4	epilepsy (drug-resistant)	sEEG	126	bilateral	CTX-LH-INSULA
+sub-Spat27	Spat27	3	epilepsy (drug-resistant)	sEEG	90	left	LEFT-HIPPOCAMPUS
+sub-Spat28	Spat28	1	epilepsy (drug-resistant)	sEEG	55	left	CTX-LH-SUPERIORTEMPORAL
+sub-Spat29	Spat29	5	epilepsy (drug-resistant)	sEEG	90	left	CTX-LH-INSULA;CTX-LH-SUPERIORTEMPORAL;LEFT-HIPPOCAMPUS
+sub-Spat30	Spat30	5	epilepsy (drug-resistant)	sEEG	112	bilateral	CTX-LH-INSULA;CTX-LH-MIDDLETEMPORAL;CTX-LH-PARSOPERCULARIS;LEFT-HIPPOCAMPUS
+sub-Spat31	Spat31	2	epilepsy (drug-resistant)	sEEG	67	bilateral	LEFT-HIPPOCAMPUS
+sub-Spat32	Spat32	3	epilepsy (drug-resistant)	sEEG	118	right	CTX-RH-INFERIORPARIETAL;CTX-RH-POSTCENTRAL
+sub-Spat33	Spat33	3	epilepsy (drug-resistant)	sEEG	136	bilateral	LEFT-HIPPOCAMPUS
+sub-Spat34	Spat34	3	epilepsy (drug-resistant)	sEEG	86	bilateral	CTX-RH-TEMPORALPOLE
+sub-Spat36	Spat36	3	epilepsy (drug-resistant)	sEEG	73	bilateral	RIGHT-HIPPOCAMPUS
+sub-Spat37	Spat37	5	epilepsy (drug-resistant)	sEEG	111	bilateral	none_of_evaluated_regions
+sub-Spat39	Spat39	2	epilepsy (drug-resistant)	sEEG	73	left	LEFT-HIPPOCAMPUS
+sub-Spat40	Spat40	3	epilepsy (drug-resistant)	sEEG	109	bilateral	LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Spat41	Spat41	3	epilepsy (drug-resistant)	sEEG	92	left	CTX-LH-PARAHIPPOCAMPAL;LEFT-HIPPOCAMPUS
+sub-Spat42	Spat42	3	epilepsy (drug-resistant)	sEEG	74	bilateral	CTX-LH-INFERIORTEMPORAL;CTX-RH-INFERIORTEMPORAL;CTX-RH-MIDDLETEMPORAL;CTX-RH-SUPRAMARGINAL
+sub-Spat44	Spat44	1	epilepsy (drug-resistant)	sEEG	134	left	CTX-LH-SUPERIORTEMPORAL;CTX-LH-TEMPORALPOLE
+sub-Spat45	Spat45	4	epilepsy (drug-resistant)	sEEG	133	right	CTX-RH-INFERIORPARIETAL;CTX-RH-POSTCENTRAL;CTX-RH-PRECENTRAL;CTX-RH-SUPERIORPARIETAL;CTX-RH-SUPRAMARGINAL
+sub-Spat46	Spat46	4	epilepsy (drug-resistant)	sEEG	110	bilateral	CTX-RH-MEDIALORBITOFRONTAL;CTX-RH-MIDDLETEMPORAL;CTX-RH-PARSTRIANGULARIS;CTX-RH-TEMPORALPOLE;RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS
+sub-Spat47	Spat47	5	epilepsy (drug-resistant)	sEEG	98	bilateral	LEFT-HIPPOCAMPUS;RIGHT-HIPPOCAMPUS
+sub-Spat48	Spat48	4	epilepsy (drug-resistant)	sEEG	111	right	CTX-RH-POSTCENTRAL;CTX-RH-POSTERIORCINGULATE;CTX-RH-PRECENTRAL;CTX-RH-SUPERIORFRONTAL
+sub-Spat49	Spat49	3	epilepsy (drug-resistant)	sEEG	70	left	CTX-LH-TEMPORALPOLE
+sub-Spat50	Spat50	4	epilepsy (drug-resistant)	sEEG	103	left	CTX-LH-PARSOPERCULARIS
+sub-Spat51	Spat51	5	epilepsy (drug-resistant)	sEEG	93	bilateral	CTX-LH-TEMPORALPOLE;LEFT-AMYGDALA;LEFT-HIPPOCAMPUS;RIGHT-AMYGDALA
+sub-Spat52	Spat52	4	epilepsy (drug-resistant)	sEEG	100	bilateral	CTX-LH-FUSIFORM;CTX-LH-INSULA;CTX-LH-MIDDLETEMPORAL
+sub-Spat53	Spat53	5	epilepsy (drug-resistant)	sEEG	85	left	CTX-LH-TEMPORALPOLE
+sub-pat11	pat11	2	epilepsy (drug-resistant)	sEEG	59	bilateral	none_of_evaluated_regions
+sub-pat33	pat33	2	epilepsy (drug-resistant)	sEEG	76	bilateral	RIGHT-AMYGDALA;RIGHT-HIPPOCAMPUS

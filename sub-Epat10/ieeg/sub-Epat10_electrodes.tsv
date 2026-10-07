@@ -1,53 +1,53 @@
-name	x	y	z	size	region
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PC1-PC2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-PC3-PC4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PC4-PC5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PC5-PC6	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PC7-PC8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-PC8-PC9	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-MC1-MC2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MC2-MC3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MC3-MC4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MC5-MC6	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-A1-A2	n/a	n/a	n/a	n/a	Right-Amygdala
-A2-A3	n/a	n/a	n/a	n/a	Right-Amygdala
-A3-A4	n/a	n/a	n/a	n/a	Right-Amygdala
-A7-A8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-A8-A9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H6-H7	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H7-H8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H1-H2	n/a	n/a	n/a	n/a	Right-Hippocampus
-H2-H3	n/a	n/a	n/a	n/a	Right-Hippocampus
-H3-H4	n/a	n/a	n/a	n/a	Right-Hippocampus
-AFI2-AFI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-PFI1-PFI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-PFI2-PFI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-AFI4-AFI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AFI7-AFI8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-FRP5-FRP6	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-FRP6-FRP7	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-FRP7-FRP8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-AFI9-AFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PFI6-PFI7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PFI7-PFI8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PFI8-PFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PFI9-PFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PFI4-PFI5	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-OF1-OF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-OF3-OF4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF4-OF5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF5-OF6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-FRP1-FRP2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-FRP2-FRP3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF7-OF8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-OF8-OF9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-OF9-OF10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
+name	x	y	z	size	region	soz_region_label
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	no
+PC1-PC2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+PC3-PC4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	n/a
+PC4-PC5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	n/a
+PC5-PC6	n/a	n/a	n/a	n/a	ctx-rh-precuneus	n/a
+PC7-PC8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	n/a
+PC8-PC9	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	n/a
+MC1-MC2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+MC2-MC3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+MC3-MC4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	n/a
+MC5-MC6	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-precentral	n/a
+A1-A2	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+A2-A3	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+A3-A4	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+A7-A8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+A8-A9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H6-H7	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H7-H8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H1-H2	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+H2-H3	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+H3-H4	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+AFI2-AFI3	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a
+PFI1-PFI2	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a
+PFI2-PFI3	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a
+AFI4-AFI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+AFI7-AFI8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+FRP5-FRP6	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+FRP6-FRP7	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+FRP7-FRP8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+AFI9-AFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PFI6-PFI7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PFI7-PFI8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PFI8-PFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PFI9-PFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PFI4-PFI5	n/a	n/a	n/a	n/a	ctx-rh-postcentral	n/a
+OF1-OF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	n/a
+OF3-OF4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF4-OF5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF5-OF6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+FRP1-FRP2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+FRP2-FRP3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF7-OF8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+OF8-OF9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+OF9-OF10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a

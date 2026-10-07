@@ -1,75 +1,75 @@
-name	x	y	z	size	region
-RBT7-RBT8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-RBT8-RBT9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-RBT9-RBT10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-RBT10-RBT11	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-RBT11-RBT12	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-RPI3-RPI4	n/a	n/a	n/a	n/a	ctx-lh-precentral
-RPI4-RPI5	n/a	n/a	n/a	n/a	ctx-lh-precentral
-RPI5-RPI6	n/a	n/a	n/a	n/a	ctx-lh-precentral
-RPI6-RPI7	n/a	n/a	n/a	n/a	ctx-lh-precentral
-RPI7-RPI8	n/a	n/a	n/a	n/a	ctx-lh-precentral
-RAH1-RAH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAH2-RAH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAH3-RAH4	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAH4-RAH5	n/a	n/a	n/a	n/a	Right-Hippocampus
-RPH1-RPH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RPH2-RPH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAM1-RAM2	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM2-RAM3	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM3-RAM4	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM4-RAM5	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM5-RAM6	n/a	n/a	n/a	n/a	Right-Amygdala
-RBT1-RBT2	n/a	n/a	n/a	n/a	ctx-rh-entorhinal
-RBT2-RBT3	n/a	n/a	n/a	n/a	ctx-rh-entorhinal
-RBT4-RBT5	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-RBT5-RBT6	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-RPH5-RPH6	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH6-RPH7	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH7-RPH8	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH8-RPH9	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH9-RPH10	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH10-RPH11	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RPH11-RPH12	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal
-RAM7-RAM8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAM8-RAM9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAM9-RAM10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAM10-RAM11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAM11-RAM12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAH10-RAH11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAH11-RAH12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAH12-RAH13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAI4-RAI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-RAI5-RAI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-RAI6-RAI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-RSM6-RSM7	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-RAG1-RAG2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-RAG2-RAG3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-RAG3-RAG4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-RSM1-RSM2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-RSM2-RSM3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-RAG9-RAG10	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RAG10-RAG11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RAG11-RAG12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RAG12-RAG13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RAG13-RAG14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RAG14-RAG15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM8-RSM9	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM9-RSM10	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM10-RSM11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM11-RSM12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM12-RSM13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM13-RSM14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RSM14-RSM15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-RTP1-RTP2	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP2-RTP3	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP3-RTP4	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP4-RTP5	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP5-RTP6	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP6-RTP7	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP7-RTP8	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP8-RTP9	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RTP9-RTP10	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-RAI1-RAI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-RAI2-RAI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-RPI1-RPI2	n/a	n/a	n/a	n/a	ctx-rh-insula
+name	x	y	z	size	region	soz_region_label
+RBT7-RBT8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+RBT8-RBT9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+RBT9-RBT10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+RBT10-RBT11	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+RBT11-RBT12	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+RPI3-RPI4	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+RPI4-RPI5	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+RPI5-RPI6	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+RPI6-RPI7	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+RPI7-RPI8	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+RAH1-RAH2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RAH2-RAH3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RAH3-RAH4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RAH4-RAH5	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RPH1-RPH2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RPH2-RPH3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+RAM1-RAM2	n/a	n/a	n/a	n/a	Right-Amygdala	no
+RAM2-RAM3	n/a	n/a	n/a	n/a	Right-Amygdala	no
+RAM3-RAM4	n/a	n/a	n/a	n/a	Right-Amygdala	no
+RAM4-RAM5	n/a	n/a	n/a	n/a	Right-Amygdala	no
+RAM5-RAM6	n/a	n/a	n/a	n/a	Right-Amygdala	no
+RBT1-RBT2	n/a	n/a	n/a	n/a	ctx-rh-entorhinal	n/a
+RBT2-RBT3	n/a	n/a	n/a	n/a	ctx-rh-entorhinal	n/a
+RBT4-RBT5	n/a	n/a	n/a	n/a	ctx-rh-fusiform	n/a
+RBT5-RBT6	n/a	n/a	n/a	n/a	ctx-rh-fusiform	n/a
+RPH5-RPH6	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH6-RPH7	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH7-RPH8	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH8-RPH9	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH9-RPH10	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH10-RPH11	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RPH11-RPH12	n/a	n/a	n/a	n/a	ctx-rh-inferiortemporal	yes
+RAM7-RAM8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAM8-RAM9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAM9-RAM10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAM10-RAM11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAM11-RAM12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAH10-RAH11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAH11-RAH12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAH12-RAH13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+RAI4-RAI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+RAI5-RAI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+RAI6-RAI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+RSM6-RSM7	n/a	n/a	n/a	n/a	ctx-rh-postcentral	n/a
+RAG1-RAG2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+RAG2-RAG3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+RAG3-RAG4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+RSM1-RSM2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+RSM2-RSM3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+RAG9-RAG10	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RAG10-RAG11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RAG11-RAG12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RAG12-RAG13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RAG13-RAG14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RAG14-RAG15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM8-RSM9	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM9-RSM10	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM10-RSM11	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM11-RSM12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM12-RSM13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM13-RSM14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RSM14-RSM15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	yes
+RTP1-RTP2	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP2-RTP3	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP3-RTP4	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP4-RTP5	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP5-RTP6	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP6-RTP7	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP7-RTP8	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP8-RTP9	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RTP9-RTP10	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	no
+RAI1-RAI2	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a
+RAI2-RAI3	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a
+RPI1-RPI2	n/a	n/a	n/a	n/a	ctx-rh-insula	n/a

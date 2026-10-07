@@ -1,112 +1,112 @@
-name	x	y	z	size	region
-H1-H2	n/a	n/a	n/a	n/a	Right-Hippocampus
-H2-H3	n/a	n/a	n/a	n/a	Right-Hippocampus
-H3-H4	n/a	n/a	n/a	n/a	Right-Hippocampus
-H4-H5	n/a	n/a	n/a	n/a	Right-Hippocampus
-H5-H6	n/a	n/a	n/a	n/a	Right-Hippocampus
-MC1-MC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-MPM1-MPM2	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM2-MPM3	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM3-MPM4	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM4-MPM5	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM5-MPM6	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM6-MPM7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-MPM7-MPM8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-H9-H10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H10-H11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H11-H12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-H12-H13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-MP6-MP7	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-MP7-MP8	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-MP8-MP9	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-MOI5-MOI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-MOI6-MOI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-MOI7-MOI8	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-MOI8-MOI9	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI6-AOI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI7-AOI8	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI8-AOI9	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI9-AOI10	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI10-AOI11	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AOI11-AOI12	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-MP12-MP13	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-MP13-MP14	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-LP7-LP8	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-LP8-LP9	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-LP9-LP10	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-LP10-LP11	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-SMA1-SMA2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-SMA2-SMA3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MM1-MM2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MM2-MM3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MP1-MP2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MP2-MP3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MP3-MP4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MP4-MP5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LPM1-LPM2	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM2-LPM3	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM3-LPM4	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM4-LPM5	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM5-LPM6	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM6-LPM7	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LPM7-LPM8	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM7-LM8	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM8-LM9	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM9-LM10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM10-LM11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM11-LM12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM12-LM13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LM13-LM14	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MP10-MP11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate
-MOI10-MOI11	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-MOI11-MOI12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-MOI12-MOI13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-MOI13-MOI14	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-MOI14-MOI15	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-SMA4-SMA5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA5-SMA6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA6-SMA7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA7-SMA8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA8-SMA9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA9-SMA10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA10-SMA11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-SMA11-SMA12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM4-MM5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM5-MM6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM6-MM7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM7-MM8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM8-MM9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM9-MM10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM10-MM11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MM11-MM12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC3-MC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC4-MC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC5-MC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC6-MC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC7-MC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC8-MC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MC10-MC11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-LP1-LP2	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-LP2-LP3	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-LP3-LP4	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-LP4-LP5	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-LP5-LP6	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-LM1-LM2	n/a	n/a	n/a	n/a	ctx-rh-insula
-LM2-LM3	n/a	n/a	n/a	n/a	ctx-rh-insula
-LM3-LM4	n/a	n/a	n/a	n/a	ctx-rh-insula
-LM4-LM5	n/a	n/a	n/a	n/a	ctx-rh-insula
-MOI1-MOI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-MOI2-MOI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-MOI3-MOI4	n/a	n/a	n/a	n/a	ctx-rh-insula
-AOI1-AOI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-AOI2-AOI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-AOI3-AOI4	n/a	n/a	n/a	n/a	ctx-rh-insula
-AOI4-AOI5	n/a	n/a	n/a	n/a	ctx-rh-insula
+name	x	y	z	size	region	soz_region_label
+H1-H2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H2-H3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H3-H4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H4-H5	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+H5-H6	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+MC1-MC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+MPM1-MPM2	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM2-MPM3	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM3-MPM4	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM4-MPM5	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM5-MPM6	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM6-MPM7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+MPM7-MPM8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+H9-H10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H10-H11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H11-H12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+H12-H13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+MP6-MP7	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+MP7-MP8	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+MP8-MP9	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+MOI5-MOI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+MOI6-MOI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+MOI7-MOI8	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+MOI8-MOI9	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI6-AOI7	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI7-AOI8	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI8-AOI9	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI9-AOI10	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI10-AOI11	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+AOI11-AOI12	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	no
+MP12-MP13	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+MP13-MP14	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+LP7-LP8	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+LP8-LP9	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+LP9-LP10	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+LP10-LP11	n/a	n/a	n/a	n/a	ctx-rh-postcentral	yes
+SMA1-SMA2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+SMA2-SMA3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MM1-MM2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MM2-MM3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MP1-MP2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MP2-MP3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MP3-MP4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+MP4-MP5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LPM1-LPM2	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM2-LPM3	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM3-LPM4	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM4-LPM5	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM5-LPM6	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM6-LPM7	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LPM7-LPM8	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM7-LM8	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM8-LM9	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM9-LM10	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM10-LM11	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM11-LM12	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM12-LM13	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LM13-LM14	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+MP10-MP11	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate	n/a
+MOI10-MOI11	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	no
+MOI11-MOI12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	no
+MOI12-MOI13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	no
+MOI13-MOI14	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	no
+MOI14-MOI15	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	no
+SMA4-SMA5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA5-SMA6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA6-SMA7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA7-SMA8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA8-SMA9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA9-SMA10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA10-SMA11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+SMA11-SMA12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM4-MM5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM5-MM6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM6-MM7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM7-MM8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM8-MM9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM9-MM10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM10-MM11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MM11-MM12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC3-MC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC4-MC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC5-MC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC6-MC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC7-MC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC8-MC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MC10-MC11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+LP1-LP2	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+LP2-LP3	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+LP3-LP4	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+LP4-LP5	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+LP5-LP6	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+LM1-LM2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+LM2-LM3	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+LM3-LM4	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+LM4-LM5	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+MOI1-MOI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+MOI2-MOI3	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+MOI3-MOI4	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+AOI1-AOI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+AOI2-AOI3	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+AOI3-AOI4	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+AOI4-AOI5	n/a	n/a	n/a	n/a	ctx-rh-insula	no

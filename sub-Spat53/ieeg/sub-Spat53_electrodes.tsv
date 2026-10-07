@@ -1,86 +1,86 @@
-name	x	y	z	size	region
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-PH5-PH6	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-OF3-OF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF6-OF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AH9-AH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-AH10-AH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PH10-PH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PH11-PH12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PH12-PH13	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-A9-A10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-A10-A11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-A11-A12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-AI1-AI2	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI2-AI3	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI3-AI4	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI4-AI5	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI5-AI6	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI6-AI7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-AI7-AI8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-OF8-OF9	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-OF9-OF10	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-OF10-OF11	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-OF11-OF12	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-PSI4-PSI5	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-PSI5-PSI6	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-PSI6-PSI7	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-PSI7-PSI8	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-PSI8-PSI9	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-MSI1-MSI2	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI2-MSI3	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI3-MSI4	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI4-MSI5	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI5-MSI6	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI6-MSI7	n/a	n/a	n/a	n/a	ctx-lh-precentral
-MSI7-MSI8	n/a	n/a	n/a	n/a	ctx-lh-precentral
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC10-AC11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC11-AC12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-PT1-PT2	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT2-PT3	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT3-PT4	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT4-PT5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT5-PT6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT6-PT7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT7-PT8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PT8-PT9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII3-PII4	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII4-PII5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII5-PII6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII6-PII7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII7-PII8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PII8-PII9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-MII4-MII5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-MII5-MII6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-MII6-MII7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-TPE1-TPE2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE2-TPE3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE3-TPE4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE4-TPE5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE5-TPE6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE6-TPE7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TPE7-TPE8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-PSI1-PSI2	n/a	n/a	n/a	n/a	ctx-lh-insula
-PSI2-PSI3	n/a	n/a	n/a	n/a	ctx-lh-insula
-PII1-PII2	n/a	n/a	n/a	n/a	ctx-lh-insula
-MII1-MII2	n/a	n/a	n/a	n/a	ctx-lh-insula
-AH1-AH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-AH2-AH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-AH3-AH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH1-PH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH2-PH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH3-PH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala
-A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala
-A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala
-A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala
-A5-A6	n/a	n/a	n/a	n/a	Left-Amygdala
+name	x	y	z	size	region	soz_region_label
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+PH5-PH6	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+OF3-OF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF6-OF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	n/a
+AH9-AH10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+AH10-AH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PH10-PH11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PH11-PH12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PH12-PH13	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+A9-A10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+A10-A11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+A11-A12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+AI1-AI2	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI2-AI3	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI3-AI4	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI4-AI5	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI5-AI6	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI6-AI7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+AI7-AI8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+OF8-OF9	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	no
+OF9-OF10	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	no
+OF10-OF11	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	no
+OF11-OF12	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	no
+PSI4-PSI5	n/a	n/a	n/a	n/a	ctx-lh-postcentral	no
+PSI5-PSI6	n/a	n/a	n/a	n/a	ctx-lh-postcentral	no
+PSI6-PSI7	n/a	n/a	n/a	n/a	ctx-lh-postcentral	no
+PSI7-PSI8	n/a	n/a	n/a	n/a	ctx-lh-postcentral	no
+PSI8-PSI9	n/a	n/a	n/a	n/a	ctx-lh-postcentral	no
+MSI1-MSI2	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI2-MSI3	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI3-MSI4	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI4-MSI5	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI5-MSI6	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI6-MSI7	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+MSI7-MSI8	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC10-AC11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC11-AC12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+PT1-PT2	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT2-PT3	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT3-PT4	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT4-PT5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT5-PT6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT6-PT7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT7-PT8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PT8-PT9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII3-PII4	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII4-PII5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII5-PII6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII6-PII7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII7-PII8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PII8-PII9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+MII4-MII5	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+MII5-MII6	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+MII6-MII7	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+TPE1-TPE2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE2-TPE3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE3-TPE4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE4-TPE5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE5-TPE6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE6-TPE7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+TPE7-TPE8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	yes
+PSI1-PSI2	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+PSI2-PSI3	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+PII1-PII2	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+MII1-MII2	n/a	n/a	n/a	n/a	ctx-lh-insula	no
+AH1-AH2	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+AH2-AH3	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+AH3-AH4	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+PH1-PH2	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+PH2-PH3	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+PH3-PH4	n/a	n/a	n/a	n/a	Left-Hippocampus	no
+A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A5-A6	n/a	n/a	n/a	n/a	Left-Amygdala	no

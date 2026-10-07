@@ -1,87 +1,87 @@
-name	x	y	z	size	region
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-MC3-MC4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-MC4-MC5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-AHJ1-AHJ2	n/a	n/a	n/a	n/a	Right-Hippocampus
-AHJ2-AHJ3	n/a	n/a	n/a	n/a	Right-Hippocampus
-AHJ3-AHJ4	n/a	n/a	n/a	n/a	Right-Hippocampus
-AH1-AH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-AH2-AH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-AH3-AH4	n/a	n/a	n/a	n/a	Right-Hippocampus
-AH4-AH5	n/a	n/a	n/a	n/a	Right-Hippocampus
-PT1-PT2	n/a	n/a	n/a	n/a	Right-Hippocampus
-PT2-PT3	n/a	n/a	n/a	n/a	Right-Hippocampus
-PT3-PT4	n/a	n/a	n/a	n/a	Right-Hippocampus
-PT4-PT5	n/a	n/a	n/a	n/a	Right-Hippocampus
-AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-PE1-PE2	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-PE2-PE3	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-PE3-PE4	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-PE4-PE5	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-PE5-PE6	n/a	n/a	n/a	n/a	ctx-rh-fusiform
-OF6-OF7	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF7-OF8	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF8-OF9	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF9-OF10	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF10-OF11	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF11-OF12	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF12-OF13	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF13-OF14	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OF1-OF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-OF2-OF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-AE7-AE8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AE8-AE9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AHJ12-AHJ13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AH8-AH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AH9-AH10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-PE8-PE9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-PE9-PE10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-PE10-PE11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-PE11-PE12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-FO4-FO5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-FO5-FO6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-AC10-AC11	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-AC11-AC12	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-MC6-MC7	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-MC7-MC8	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-APC1-APC2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-APC2-APC3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-FO7-FO8	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MC10-MC11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MC11-MC12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MC12-MC13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MC13-MC14	n/a	n/a	n/a	n/a	ctx-rh-precentral
-AI4-AI5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AI5-AI6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AI6-AI7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AHJ8-AHJ9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AHJ9-AHJ10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AHJ10-AHJ11	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AH11-AH12	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AH12-AH13	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-AH13-AH14	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI4-PI5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI5-PI6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI6-PI7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI7-PI8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI8-PI9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-PI9-PI10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-APC11-APC12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-APC12-APC13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-APC13-APC14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-APC14-APC15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-AE1-AE2	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-AE2-AE3	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-AE3-AE4	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-AE4-AE5	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-AE5-AE6	n/a	n/a	n/a	n/a	ctx-rh-temporalpole
-FO1-FO2	n/a	n/a	n/a	n/a	ctx-rh-insula
-FO2-FO3	n/a	n/a	n/a	n/a	ctx-rh-insula
-AI1-AI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-PI1-PI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-PI2-PI3	n/a	n/a	n/a	n/a	ctx-rh-insula
+name	x	y	z	size	region	soz_region_label
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+MC3-MC4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+MC4-MC5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+AHJ1-AHJ2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AHJ2-AHJ3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AHJ3-AHJ4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AH1-AH2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AH2-AH3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AH3-AH4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AH4-AH5	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+PT1-PT2	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+PT2-PT3	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+PT3-PT4	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+PT4-PT5	n/a	n/a	n/a	n/a	Right-Hippocampus	no
+AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+PE1-PE2	n/a	n/a	n/a	n/a	ctx-rh-fusiform	no
+PE2-PE3	n/a	n/a	n/a	n/a	ctx-rh-fusiform	no
+PE3-PE4	n/a	n/a	n/a	n/a	ctx-rh-fusiform	no
+PE4-PE5	n/a	n/a	n/a	n/a	ctx-rh-fusiform	no
+PE5-PE6	n/a	n/a	n/a	n/a	ctx-rh-fusiform	no
+OF6-OF7	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF7-OF8	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF8-OF9	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF9-OF10	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF10-OF11	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF11-OF12	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF12-OF13	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF13-OF14	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OF1-OF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	n/a
+OF2-OF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	n/a
+AE7-AE8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+AE8-AE9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+AHJ12-AHJ13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+AH8-AH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+AH9-AH10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+PE8-PE9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+PE9-PE10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+PE10-PE11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+PE11-PE12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+FO4-FO5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+FO5-FO6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+AC10-AC11	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+AC11-AC12	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+MC6-MC7	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	no
+MC7-MC8	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	no
+APC1-APC2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	no
+APC2-APC3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	no
+FO7-FO8	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+MC9-MC10	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+MC10-MC11	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+MC11-MC12	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+MC12-MC13	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+MC13-MC14	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+AI4-AI5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AI5-AI6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AI6-AI7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AHJ8-AHJ9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AHJ9-AHJ10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AHJ10-AHJ11	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AH11-AH12	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AH12-AH13	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+AH13-AH14	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI4-PI5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI5-PI6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI6-PI7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI7-PI8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI8-PI9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+PI9-PI10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+APC11-APC12	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+APC12-APC13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+APC13-APC14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+APC14-APC15	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	no
+AE1-AE2	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	yes
+AE2-AE3	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	yes
+AE3-AE4	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	yes
+AE4-AE5	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	yes
+AE5-AE6	n/a	n/a	n/a	n/a	ctx-rh-temporalpole	yes
+FO1-FO2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+FO2-FO3	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+AI1-AI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+PI1-PI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+PI2-PI3	n/a	n/a	n/a	n/a	ctx-rh-insula	no

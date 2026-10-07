@@ -1,127 +1,127 @@
-name	x	y	z	size	region
-MC1-MC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-MC2-MC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-MOBL1-MOBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-FEF5-FEF6	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-FEF6-FEF7	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-FEF7-FEF8	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-FEF8-FEF9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F36-F37	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F37-F38	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F38-F39	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F39-F310	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F310-F311	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-F311-F312	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-PH11-PH12	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-PH21-PH22	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH22-PH23	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH23-PH24	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH24-PH25	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH25-PH26	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH13-PH14	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-PH27-PH28	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH28-PH29	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH29-PH210	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH210-PH211	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH15-PH16	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH16-PH17	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH17-PH18	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH18-PH19	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH19-PH110	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-PH110-PH111	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-OFOBL1-OFOBL2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-OFOBL2-OFOBL3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-OFOBL3-OFOBL4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-OFOBL4-OFOBL5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-H18-H19	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-H19-H110	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-H110-H111	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-H111-H112	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-Am8-Am9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-Am9-Am10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-Am10-Am11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-Am11-Am12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-H13-H14	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal
-H14-H15	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal
-MC9-MC10	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC10-MC11	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC11-MC12	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC12-MC13	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC13-MC14	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC14-MC15	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-MC15-MC16	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-FEF10-FEF11	n/a	n/a	n/a	n/a	ctx-lh-precentral
-FEF11-FEF12	n/a	n/a	n/a	n/a	ctx-lh-precentral
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-OFOBL6-OFOBL7	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-OFOBL7-OFOBL8	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-OFOBL8-OFOBL9	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC10-AC11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC11-AC12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC12-AC13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-AC13-AC14	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F15-F16	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F16-F17	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F17-F18	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F18-F19	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F19-F110	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F110-F111	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F111-F112	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F25-F26	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F26-F27	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F27-F28	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F28-F29	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-F29-F210	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-FEF1-FEF2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-FEF2-FEF3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-FEF3-FEF4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F31-F32	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F32-F33	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F33-F34	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F34-F35	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F11-F12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F12-F13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F21-F22	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F22-F23	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-F23-F24	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL10-OFOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL11-OFOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL12-OFOBL13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL13-OFOBL14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL14-OFOBL15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-OFOBL15-OFOBL16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL4-AOBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL7-AOBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL9-AOBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL10-AOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL3-MOBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL4-MOBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL5-MOBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL6-MOBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL7-MOBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL8-MOBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL9-MOBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL10-MOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-MOBL11-MOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL4-POBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL9-POBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-POBL11-POBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-H11-H12	n/a	n/a	n/a	n/a	Left-Hippocampus
-Am1-Am2	n/a	n/a	n/a	n/a	Left-Amygdala
-Am2-Am3	n/a	n/a	n/a	n/a	Left-Amygdala
-Am3-Am4	n/a	n/a	n/a	n/a	Left-Amygdala
-Am4-Am5	n/a	n/a	n/a	n/a	Left-Amygdala
-Am5-Am6	n/a	n/a	n/a	n/a	Left-Amygdala
+name	x	y	z	size	region	soz_region_label
+MC1-MC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+MC2-MC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+MOBL1-MOBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+FEF5-FEF6	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+FEF6-FEF7	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+FEF7-FEF8	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+FEF8-FEF9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F36-F37	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F37-F38	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F38-F39	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F39-F310	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F310-F311	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+F311-F312	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+PH11-PH12	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+PH21-PH22	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH22-PH23	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH23-PH24	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH24-PH25	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH25-PH26	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH13-PH14	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+PH27-PH28	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH28-PH29	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH29-PH210	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH210-PH211	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH15-PH16	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH16-PH17	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH17-PH18	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH18-PH19	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH19-PH110	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+PH110-PH111	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+OFOBL1-OFOBL2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+OFOBL2-OFOBL3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+OFOBL3-OFOBL4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+OFOBL4-OFOBL5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+H18-H19	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+H19-H110	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+H110-H111	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+H111-H112	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+Am8-Am9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+Am9-Am10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+Am10-Am11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+Am11-Am12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+H13-H14	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal	n/a
+H14-H15	n/a	n/a	n/a	n/a	ctx-lh-parahippocampal	n/a
+MC9-MC10	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC10-MC11	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC11-MC12	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC12-MC13	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC13-MC14	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC14-MC15	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+MC15-MC16	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	no
+POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+FEF10-FEF11	n/a	n/a	n/a	n/a	ctx-lh-precentral	n/a
+FEF11-FEF12	n/a	n/a	n/a	n/a	ctx-lh-precentral	n/a
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+AC3-AC4	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+OFOBL6-OFOBL7	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+OFOBL7-OFOBL8	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+OFOBL8-OFOBL9	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	no
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+AC10-AC11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+AC11-AC12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+AC12-AC13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+AC13-AC14	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F15-F16	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F16-F17	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F17-F18	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F18-F19	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F19-F110	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F110-F111	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F111-F112	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F25-F26	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F26-F27	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F27-F28	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F28-F29	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+F29-F210	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+FEF1-FEF2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+FEF2-FEF3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+FEF3-FEF4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F31-F32	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F32-F33	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F33-F34	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F34-F35	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F11-F12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F12-F13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F21-F22	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F22-F23	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+F23-F24	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL10-OFOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL11-OFOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL12-OFOBL13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL13-OFOBL14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL14-OFOBL15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+OFOBL15-OFOBL16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL4-AOBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL7-AOBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL9-AOBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AOBL10-AOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL3-MOBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL4-MOBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL5-MOBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL6-MOBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL7-MOBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL8-MOBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL9-MOBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL10-MOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+MOBL11-MOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL4-POBL5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL9-POBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+POBL11-POBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+H11-H12	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+Am1-Am2	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+Am2-Am3	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+Am3-Am4	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+Am4-Am5	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+Am5-Am6	n/a	n/a	n/a	n/a	Left-Amygdala	n/a

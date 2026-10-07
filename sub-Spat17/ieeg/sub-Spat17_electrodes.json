@@ -1,5 +1,12 @@
 {
   "region": {
     "Description": "Desikan-Killiany / FreeSurfer aseg region of the bipolar channel (bip_montage_region in the release)"
+  },
+  "soz_region_label": {
+    "Description": "Whether the channel's Desikan-Killiany region is one of the patient's seizure-onset-zone regions in the deposit results JSON (per-patient per-region SOZ labels used by Sundrani et al. 2025; SOZ defined per DK region containing any contact involved in ictal onset of at least one seizure). n/a: region not evaluated or patient absent from the results JSON.",
+    "Levels": {
+      "yes": "region labelled SOZ",
+      "no": "region labelled non-SOZ"
+    }
   }
 }

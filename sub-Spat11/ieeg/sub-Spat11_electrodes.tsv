@@ -1,60 +1,60 @@
-name	x	y	z	size	region
-HPT1-HPT2	n/a	n/a	n/a	n/a	Right-Hippocampus
-HPT2-HPT3	n/a	n/a	n/a	n/a	Right-Hippocampus
-HPT3-HPT4	n/a	n/a	n/a	n/a	Right-Hippocampus
-AAT1-AAT2	n/a	n/a	n/a	n/a	Right-Amygdala
-PC1-PC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-PC2-PC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-AMFI7-AMFI8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-AMFI8-AMFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-AMFI9-AMFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-AMFI10-AMFI11	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-AMFI11-AMFI12	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PMFI8-PMFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PMFI9-PMFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PMFI10-PMFI11	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PMFI11-PMFI12	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-PO6-PO7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-OFC1-OFC2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OFC2-OFC3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OFC3-OFC4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OFC4-OFC5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-OFC5-OFC6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-AAT5-AAT6	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AAT6-AAT7	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-HPT7-HPT8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-HPT8-HPT9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-HPT9-HPT10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-AMFI3-AMFI4	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AMFI4-AMFI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-AMFI5-AMFI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis
-OFC7-OFC8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-OFC8-OFC9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-OFC9-OFC10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-PMFI5-PMFI6	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-PO1-PO2	n/a	n/a	n/a	n/a	ctx-rh-precentral
-PO2-PO3	n/a	n/a	n/a	n/a	ctx-rh-precentral
-PO3-PO4	n/a	n/a	n/a	n/a	ctx-rh-precentral
-PO4-PO5	n/a	n/a	n/a	n/a	ctx-rh-precentral
-PC4-PC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PC5-PC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PC6-PC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PC7-PC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PC8-PC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC2-PMC3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC3-PMC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC4-PMC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC5-PMC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC6-PMC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC7-PMC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-PMC8-PMC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC3-AC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AMFI1-AMFI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-PMFI1-PMFI2	n/a	n/a	n/a	n/a	ctx-rh-insula
-PMFI2-PMFI3	n/a	n/a	n/a	n/a	ctx-rh-insula
-PMFI3-PMFI4	n/a	n/a	n/a	n/a	ctx-rh-insula
+name	x	y	z	size	region	soz_region_label
+HPT1-HPT2	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+HPT2-HPT3	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+HPT3-HPT4	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+AAT1-AAT2	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+PC1-PC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+PC2-PC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+AMFI7-AMFI8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+AMFI8-AMFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+AMFI9-AMFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+AMFI10-AMFI11	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+AMFI11-AMFI12	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PMFI8-PMFI9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PMFI9-PMFI10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PMFI10-PMFI11	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PMFI11-PMFI12	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+PO6-PO7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	yes
+OFC1-OFC2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OFC2-OFC3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OFC3-OFC4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OFC4-OFC5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+OFC5-OFC6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	no
+AAT5-AAT6	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+AAT6-AAT7	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+HPT7-HPT8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+HPT8-HPT9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+HPT9-HPT10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	yes
+AMFI3-AMFI4	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+AMFI4-AMFI5	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+AMFI5-AMFI6	n/a	n/a	n/a	n/a	ctx-rh-parsopercularis	n/a
+OFC7-OFC8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+OFC8-OFC9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+OFC9-OFC10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	n/a
+PMFI5-PMFI6	n/a	n/a	n/a	n/a	ctx-rh-postcentral	n/a
+PO1-PO2	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+PO2-PO3	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+PO3-PO4	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+PO4-PO5	n/a	n/a	n/a	n/a	ctx-rh-precentral	no
+PC4-PC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PC5-PC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PC6-PC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PC7-PC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PC8-PC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC2-PMC3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC3-PMC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC4-PMC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC5-PMC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC6-PMC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC7-PMC8	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+PMC8-PMC9	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC3-AC4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC5-AC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AMFI1-AMFI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+PMFI1-PMFI2	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+PMFI2-PMFI3	n/a	n/a	n/a	n/a	ctx-rh-insula	no
+PMFI3-PMFI4	n/a	n/a	n/a	n/a	ctx-rh-insula	no

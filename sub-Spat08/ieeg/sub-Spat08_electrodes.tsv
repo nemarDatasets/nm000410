@@ -1,53 +1,53 @@
-name	x	y	z	size	region
-LSPT4-LSPT5	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LSPT5-LSPT6	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LSPT6-LSPT7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LSPT7-LSPT8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP1-LP2	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP2-LP3	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP3-LP4	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP4-LP5	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP5-LP6	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP6-LP7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP7-LP8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LP8-LP9	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal
-LIPT1-LIPT2	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT2-LIPT3	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT3-LIPT4	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT4-LIPT5	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT5-LIPT6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT6-LIPT7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIPT7-LIPT8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LIO8-LIO9	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LSO5-LSO6	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LSO6-LSO7	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LSO7-LSO8	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital
-LIO1-LIO2	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LIO2-LIO3	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LIO3-LIO4	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LIO4-LIO5	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LIO5-LIO6	n/a	n/a	n/a	n/a	ctx-lh-lingual
-LH5-LH6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH6-LH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LH7-LH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LI7-LI8	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LI9-LI10	n/a	n/a	n/a	n/a	ctx-lh-postcentral
-LSO1-LSO2	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LSO2-LSO3	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LSPT1-LSPT2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LSPT2-LSPT3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LI3-LI4	n/a	n/a	n/a	n/a	ctx-lh-insula
-LH1-LH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LH2-LH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-RH1-RH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RH2-RH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RPQ5-RPQ6	n/a	n/a	n/a	n/a	ctx-rh-lateraloccipital
-RPQ6-RPQ7	n/a	n/a	n/a	n/a	ctx-rh-lateraloccipital
-RPQ1-RPQ2	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine
-RPQ2-RPQ3	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine
-RPQ3-RPQ4	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine
-RH4-RH5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RH5-RH6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RH6-RH7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RH7-RH8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
+name	x	y	z	size	region	soz_region_label
+LSPT4-LSPT5	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LSPT5-LSPT6	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LSPT6-LSPT7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LSPT7-LSPT8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP1-LP2	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP2-LP3	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP3-LP4	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP4-LP5	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP5-LP6	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP6-LP7	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP7-LP8	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LP8-LP9	n/a	n/a	n/a	n/a	ctx-lh-inferiorparietal	yes
+LIPT1-LIPT2	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT2-LIPT3	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT3-LIPT4	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT4-LIPT5	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT5-LIPT6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT6-LIPT7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIPT7-LIPT8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	yes
+LIO8-LIO9	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	yes
+LSO5-LSO6	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	yes
+LSO6-LSO7	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	yes
+LSO7-LSO8	n/a	n/a	n/a	n/a	ctx-lh-lateraloccipital	yes
+LIO1-LIO2	n/a	n/a	n/a	n/a	ctx-lh-lingual	yes
+LIO2-LIO3	n/a	n/a	n/a	n/a	ctx-lh-lingual	yes
+LIO3-LIO4	n/a	n/a	n/a	n/a	ctx-lh-lingual	yes
+LIO4-LIO5	n/a	n/a	n/a	n/a	ctx-lh-lingual	yes
+LIO5-LIO6	n/a	n/a	n/a	n/a	ctx-lh-lingual	yes
+LH5-LH6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	n/a
+LH6-LH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	n/a
+LH7-LH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	n/a
+LI7-LI8	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LI9-LI10	n/a	n/a	n/a	n/a	ctx-lh-postcentral	n/a
+LSO1-LSO2	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LSO2-LSO3	n/a	n/a	n/a	n/a	ctx-lh-precuneus	n/a
+LSPT1-LSPT2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LSPT2-LSPT3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LI3-LI4	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LH1-LH2	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+LH2-LH3	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+RH1-RH2	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+RH2-RH3	n/a	n/a	n/a	n/a	Right-Hippocampus	n/a
+RPQ5-RPQ6	n/a	n/a	n/a	n/a	ctx-rh-lateraloccipital	n/a
+RPQ6-RPQ7	n/a	n/a	n/a	n/a	ctx-rh-lateraloccipital	n/a
+RPQ1-RPQ2	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine	n/a
+RPQ2-RPQ3	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine	n/a
+RPQ3-RPQ4	n/a	n/a	n/a	n/a	ctx-rh-pericalcarine	n/a
+RH4-RH5	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RH5-RH6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RH6-RH7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RH7-RH8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no

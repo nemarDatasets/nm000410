@@ -1,84 +1,84 @@
-name	x	y	z	size	region
-AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-AOBL9-AOBL10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-M5-M6	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-M6-M7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-M7-M8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal
-POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-POBL2-POBL3	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-POBL4-POBL5	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-POBL5-POBL6	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-POBL6-POBL7	n/a	n/a	n/a	n/a	ctx-rh-cuneus
-PPAR9-PPAR10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PPAR10-PPAR11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PPAR11-PPAR12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PPAR12-PPAR13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-PPAR13-PPAR14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-APAR12-APAR13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-APAR13-APAR14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-APAR14-APAR15	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-APAR15-APAR16	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal
-MOBL1-MOBL2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-FLR1-FLR2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-FLR2-FLR3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate
-LGOBL6-LGOBL7	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-S2-S3	n/a	n/a	n/a	n/a	ctx-rh-paracentral
-FLR8-FLR9	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-FLR9-FLR10	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-FLR10-FLR11	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-FLR11-FLR12	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S4-S5	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S5-S6	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S6-S7	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S7-S8	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S8-S9	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S9-S10	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-S10-S11	n/a	n/a	n/a	n/a	ctx-rh-postcentral
-AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LGOBL1-LGOBL2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LGOBL2-LGOBL3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LGOBL3-LGOBL4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LGOBL4-LGOBL5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate
-LGOBL9-LGOBL10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LGOBL10-LGOBL11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LGOBL11-LGOBL12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-LGOBL12-LGOBL13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-M9-M10	n/a	n/a	n/a	n/a	ctx-rh-precentral
-M10-M11	n/a	n/a	n/a	n/a	ctx-rh-precentral
-M11-M12	n/a	n/a	n/a	n/a	ctx-rh-precentral
-M12-M13	n/a	n/a	n/a	n/a	ctx-rh-precentral
-MOBL3-MOBL4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MOBL4-MOBL5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MOBL5-MOBL6	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MOBL6-MOBL7	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MOBL7-MOBL8	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-MOBL8-MOBL9	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-FLR4-FLR5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-FLR5-FLR6	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-FLR6-FLR7	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-POBL9-POBL10	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PPAR1-PPAR2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PPAR2-PPAR3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PPAR3-PPAR4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PPAR4-PPAR5	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-PPAR5-PPAR6	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-APAR1-APAR2	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-APAR2-APAR3	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-APAR3-APAR4	n/a	n/a	n/a	n/a	ctx-rh-precuneus
-AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AOBL4-AOBL5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-M1-M2	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-M2-M3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-M3-M4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-MOBL10-MOBL11	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-POBL12-POBL13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-PPAR7-PPAR8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-APAR9-APAR10	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-APAR10-APAR11	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal
-S12-S13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
-S13-S14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal
+name	x	y	z	size	region	soz_region_label
+AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+AOBL9-AOBL10	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+M5-M6	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+M6-M7	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+M7-M8	n/a	n/a	n/a	n/a	ctx-rh-caudalmiddlefrontal	no
+POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+POBL2-POBL3	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+POBL4-POBL5	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+POBL5-POBL6	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+POBL6-POBL7	n/a	n/a	n/a	n/a	ctx-rh-cuneus	no
+PPAR9-PPAR10	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+PPAR10-PPAR11	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+PPAR11-PPAR12	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+PPAR12-PPAR13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+PPAR13-PPAR14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+APAR12-APAR13	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+APAR13-APAR14	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+APAR14-APAR15	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+APAR15-APAR16	n/a	n/a	n/a	n/a	ctx-rh-inferiorparietal	n/a
+MOBL1-MOBL2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+FLR1-FLR2	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+FLR2-FLR3	n/a	n/a	n/a	n/a	ctx-rh-isthmuscingulate	n/a
+LGOBL6-LGOBL7	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+S2-S3	n/a	n/a	n/a	n/a	ctx-rh-paracentral	n/a
+FLR8-FLR9	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+FLR9-FLR10	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+FLR10-FLR11	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+FLR11-FLR12	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S4-S5	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S5-S6	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S6-S7	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S7-S8	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S8-S9	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S9-S10	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+S10-S11	n/a	n/a	n/a	n/a	ctx-rh-postcentral	no
+AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LGOBL1-LGOBL2	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LGOBL2-LGOBL3	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LGOBL3-LGOBL4	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LGOBL4-LGOBL5	n/a	n/a	n/a	n/a	ctx-rh-posteriorcingulate	yes
+LGOBL9-LGOBL10	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LGOBL10-LGOBL11	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LGOBL11-LGOBL12	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+LGOBL12-LGOBL13	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+M9-M10	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+M10-M11	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+M11-M12	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+M12-M13	n/a	n/a	n/a	n/a	ctx-rh-precentral	yes
+MOBL3-MOBL4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MOBL4-MOBL5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MOBL5-MOBL6	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MOBL6-MOBL7	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MOBL7-MOBL8	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+MOBL8-MOBL9	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+FLR4-FLR5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+FLR5-FLR6	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+FLR6-FLR7	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+POBL9-POBL10	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PPAR1-PPAR2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PPAR2-PPAR3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PPAR3-PPAR4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PPAR4-PPAR5	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+PPAR5-PPAR6	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+APAR1-APAR2	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+APAR2-APAR3	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+APAR3-APAR4	n/a	n/a	n/a	n/a	ctx-rh-precuneus	no
+AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AOBL4-AOBL5	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+M1-M2	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+M2-M3	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+M3-M4	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+MOBL10-MOBL11	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+POBL12-POBL13	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+PPAR7-PPAR8	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+APAR9-APAR10	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+APAR10-APAR11	n/a	n/a	n/a	n/a	ctx-rh-superiorparietal	no
+S12-S13	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	n/a
+S13-S14	n/a	n/a	n/a	n/a	ctx-rh-supramarginal	n/a

@@ -1,69 +1,69 @@
-name	x	y	z	size	region
-L2H6-L2H7	n/a	n/a	n/a	n/a	ctx-lh-bankssts
-L2H7-L2H8	n/a	n/a	n/a	n/a	ctx-lh-bankssts
-L2H1-L2H2	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-L2H2-L2H3	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-L1H7-L1H8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-L1H8-L1H9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-L1H9-L1H10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-LPH6-LPH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LPH7-LPH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LPH8-LPH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH6-LAH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-L1H1-L1H2	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-L1H2-L1H3	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-L1H3-L1H4	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-L1H4-L1H5	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-LA7-LA8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LA8-LA9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-L2H9-L2H10	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-L2H10-L2H11	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-L2H11-L2H12	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA5-LA6	n/a	n/a	n/a	n/a	ctx-lh-insula
-LPH1-LPH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LPH2-LPH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LPH3-LPH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-LPH4-LPH5	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH4-LAH5	n/a	n/a	n/a	n/a	Left-Hippocampus
-LA1-LA2	n/a	n/a	n/a	n/a	Left-Amygdala
-LA2-LA3	n/a	n/a	n/a	n/a	Left-Amygdala
-LA3-LA4	n/a	n/a	n/a	n/a	Left-Amygdala
-RAH1-RAH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAH2-RAH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAH3-RAH4	n/a	n/a	n/a	n/a	Right-Hippocampus
-RPH1-RPH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RPH2-RPH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RA1-RA2	n/a	n/a	n/a	n/a	Right-Amygdala
-RA2-RA3	n/a	n/a	n/a	n/a	Right-Amygdala
-RA3-RA4	n/a	n/a	n/a	n/a	Right-Amygdala
-R2H8-R2H9	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R2H9-R2H10	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R2H10-R2H11	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R1H7-R1H8	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R1H8-R1H9	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R1H9-R1H10	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R1H10-R1H11	n/a	n/a	n/a	n/a	ctx-rh-bankssts
-R2H1-R2H2	n/a	n/a	n/a	n/a	ctx-rh-lingual
-R1H1-R1H2	n/a	n/a	n/a	n/a	ctx-rh-lingual
-R1H2-R1H3	n/a	n/a	n/a	n/a	ctx-rh-lingual
-R1H3-R1H4	n/a	n/a	n/a	n/a	ctx-rh-lingual
-R1H4-R1H5	n/a	n/a	n/a	n/a	ctx-rh-lingual
-R1H5-R1H6	n/a	n/a	n/a	n/a	ctx-rh-lingual
-RPH7-RPH8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RPH8-RPH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-R2H3-R2H4	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-R2H4-R2H5	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-R2H5-R2H6	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-R2H6-R2H7	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal
-RAH6-RAH7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RAH7-RAH8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RAH8-RAH9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RA5-RA6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RA6-RA7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RA7-RA8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RA8-RA9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
+name	x	y	z	size	region	soz_region_label
+L2H6-L2H7	n/a	n/a	n/a	n/a	ctx-lh-bankssts	n/a
+L2H7-L2H8	n/a	n/a	n/a	n/a	ctx-lh-bankssts	n/a
+L2H1-L2H2	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+L2H2-L2H3	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+L1H7-L1H8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+L1H8-L1H9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+L1H9-L1H10	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+LPH6-LPH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LPH7-LPH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LPH8-LPH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH6-LAH7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+L1H1-L1H2	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+L1H2-L1H3	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+L1H3-L1H4	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+L1H4-L1H5	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+LA7-LA8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	n/a
+LA8-LA9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	n/a
+L2H9-L2H10	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+L2H10-L2H11	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+L2H11-L2H12	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	n/a
+LA5-LA6	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LPH1-LPH2	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LPH2-LPH3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LPH3-LPH4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LPH4-LPH5	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH4-LAH5	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LA1-LA2	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+LA2-LA3	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+LA3-LA4	n/a	n/a	n/a	n/a	Left-Amygdala	n/a
+RAH1-RAH2	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RAH2-RAH3	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RAH3-RAH4	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RPH1-RPH2	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RPH2-RPH3	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RA1-RA2	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+RA2-RA3	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+RA3-RA4	n/a	n/a	n/a	n/a	Right-Amygdala	n/a
+R2H8-R2H9	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R2H9-R2H10	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R2H10-R2H11	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R1H7-R1H8	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R1H8-R1H9	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R1H9-R1H10	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R1H10-R1H11	n/a	n/a	n/a	n/a	ctx-rh-bankssts	yes
+R2H1-R2H2	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+R1H1-R1H2	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+R1H2-R1H3	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+R1H3-R1H4	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+R1H4-R1H5	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+R1H5-R1H6	n/a	n/a	n/a	n/a	ctx-rh-lingual	yes
+RPH7-RPH8	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	n/a
+RPH8-RPH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	n/a
+R2H3-R2H4	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	yes
+R2H4-R2H5	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	yes
+R2H5-R2H6	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	yes
+R2H6-R2H7	n/a	n/a	n/a	n/a	ctx-rh-parahippocampal	yes
+RAH6-RAH7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RAH7-RAH8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RAH8-RAH9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RA5-RA6	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RA6-RA7	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RA7-RA8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RA8-RA9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no

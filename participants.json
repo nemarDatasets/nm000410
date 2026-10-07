@@ -4,5 +4,25 @@
   },
   "cv_test_fold": {
     "Description": "Cross-validation fold (1-5) in which the patient was in the test set, from the authors' complete_results_108_perm4_alllocs_v2_hist.json; n/a if the patient is not in any fold"
+  },
+  "diagnosis": {
+    "Description": "drug-resistant epilepsy (cohort statement)",
+    "Source": "doi:10.1111/epi.18478 (Sundrani et al., Epilepsia 2025;66(9):3180-3192; PMC12354104) Methods"
+  },
+  "implant_type": {
+    "Description": "sEEG",
+    "Source": "doi:10.1111/epi.18478 (Sundrani et al., Epilepsia 2025;66(9):3180-3192; PMC12354104)"
+  },
+  "n_bipolar_channels": {
+    "Description": "number of bipolar channels (bip_montage_label) in the .mat file",
+    "Source": "https://discover.pennsieve.io/datasets/492/version/1 files/ts_data/<pat>_python_friendly.mat (read in Voyager Job)"
+  },
+  "implanted_hemisphere": {
+    "Description": "from lh/rh/Left/Right in the DK region labels of the bipolar channels (derived)",
+    "Source": "https://discover.pennsieve.io/datasets/492/version/1 files/ts_data/<pat>_python_friendly.mat bip_montage_region"
+  },
+  "soz_summary": {
+    "Description": "DK regions with true_label 1.0 (SOZ) in the authors' results; SOZ was defined per DK region containing any contact involved in ictal onset of >=1 seizure (paper Methods). Only regions with >=4 contacts were evaluated; none_of_evaluated_regions = no evaluated region was SOZ.",
+    "Source": "https://discover.pennsieve.io/datasets/492/version/1 files/results/results_json/complete_results_108_perm4_alllocs_v2_hist.json fold_metrics.*.detailed_results.<pat>.locations.<region>.true_label"
   }
 }

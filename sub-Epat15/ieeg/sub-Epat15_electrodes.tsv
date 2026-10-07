@@ -1,71 +1,71 @@
-name	x	y	z	size	region
-M1OBL1-M1OBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-M1OBL2-M1OBL3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-M1OBL3-M1OBL4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AOBL7-AOBL8	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-OCC1-OCC2	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC2-OCC3	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC3-OCC4	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC4-OCC5	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC5-OCC6	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC6-OCC7	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC7-OCC8	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC8-OCC9	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-OCC9-OCC10	n/a	n/a	n/a	n/a	ctx-lh-cuneus
-H5-H6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-H6-H7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-H7-H8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-H8-H9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate
-POBL2-POBL3	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate
-POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate
-PT1-PT2	n/a	n/a	n/a	n/a	ctx-lh-lingual
-PT2-PT3	n/a	n/a	n/a	n/a	ctx-lh-lingual
-PT3-PT4	n/a	n/a	n/a	n/a	ctx-lh-lingual
-PT4-PT5	n/a	n/a	n/a	n/a	ctx-lh-lingual
-PT5-PT6	n/a	n/a	n/a	n/a	ctx-lh-lingual
-PT6-PT7	n/a	n/a	n/a	n/a	ctx-lh-lingual
-AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AOBL2-AOBL3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AF1-AF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AF2-AF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AF3-AF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-AF4-AF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-PT8-PT9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PT9-PT10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PT10-PT11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-PT11-PT12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-lh-paracentral
-POBL11-POBL12	n/a	n/a	n/a	n/a	ctx-lh-paracentral
-M2OBL1-M2OBL2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-M2OBL2-M2OBL3	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-M2OBL3-M2OBL4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-M2OBL4-M2OBL5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate
-POBL5-POBL6	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-POBL6-POBL7	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-POBL7-POBL8	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-lh-precuneus
-M1OBL5-M1OBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M1OBL6-M1OBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M1OBL7-M1OBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M1OBL8-M1OBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M1OBL9-M1OBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M1OBL10-M1OBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL10-AOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL11-AOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL12-AOBL13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL13-AOBL14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL14-AOBL15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AOBL15-AOBL16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M2OBL6-M2OBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M2OBL7-M2OBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M2OBL8-M2OBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M2OBL9-M2OBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-M2OBL10-M2OBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-H1-H2	n/a	n/a	n/a	n/a	Left-Hippocampus
-H2-H3	n/a	n/a	n/a	n/a	Left-Hippocampus
-H3-H4	n/a	n/a	n/a	n/a	Left-Hippocampus
+name	x	y	z	size	region	soz_region_label
+M1OBL1-M1OBL2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+M1OBL2-M1OBL3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+M1OBL3-M1OBL4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AOBL5-AOBL6	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AOBL6-AOBL7	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AOBL7-AOBL8	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+AOBL8-AOBL9	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	no
+OCC1-OCC2	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC2-OCC3	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC3-OCC4	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC4-OCC5	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC5-OCC6	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC6-OCC7	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC7-OCC8	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC8-OCC9	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+OCC9-OCC10	n/a	n/a	n/a	n/a	ctx-lh-cuneus	no
+H5-H6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	no
+H6-H7	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	no
+H7-H8	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	no
+H8-H9	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	no
+POBL1-POBL2	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate	n/a
+POBL2-POBL3	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate	n/a
+POBL3-POBL4	n/a	n/a	n/a	n/a	ctx-lh-isthmuscingulate	n/a
+PT1-PT2	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+PT2-PT3	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+PT3-PT4	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+PT4-PT5	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+PT5-PT6	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+PT6-PT7	n/a	n/a	n/a	n/a	ctx-lh-lingual	no
+AOBL1-AOBL2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AOBL2-AOBL3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AOBL3-AOBL4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AF1-AF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AF2-AF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AF3-AF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+AF4-AF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+PT8-PT9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PT9-PT10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PT10-PT11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+PT11-PT12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+POBL10-POBL11	n/a	n/a	n/a	n/a	ctx-lh-paracentral	n/a
+POBL11-POBL12	n/a	n/a	n/a	n/a	ctx-lh-paracentral	n/a
+M2OBL1-M2OBL2	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+M2OBL2-M2OBL3	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+M2OBL3-M2OBL4	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+M2OBL4-M2OBL5	n/a	n/a	n/a	n/a	ctx-lh-posteriorcingulate	n/a
+POBL5-POBL6	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+POBL6-POBL7	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+POBL7-POBL8	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+POBL8-POBL9	n/a	n/a	n/a	n/a	ctx-lh-precuneus	no
+M1OBL5-M1OBL6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M1OBL6-M1OBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M1OBL7-M1OBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M1OBL8-M1OBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M1OBL9-M1OBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M1OBL10-M1OBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL10-AOBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL11-AOBL12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL12-AOBL13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL13-AOBL14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL14-AOBL15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+AOBL15-AOBL16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M2OBL6-M2OBL7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M2OBL7-M2OBL8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M2OBL8-M2OBL9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M2OBL9-M2OBL10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+M2OBL10-M2OBL11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	n/a
+H1-H2	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+H2-H3	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a
+H3-H4	n/a	n/a	n/a	n/a	Left-Hippocampus	n/a

@@ -1,104 +1,104 @@
-name	x	y	z	size	region
-LAC1-LAC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-LP1-LP2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-LP2-LP3	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-LTP1-LTP2	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LTP2-LTP3	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LP4-LP5	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LP5-LP6	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LIT5-LIT6	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LIT6-LIT7	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-LF1-LF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LF2-LF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LF3-LF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LF4-LF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LTP4-LTP5	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTP5-LTP6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTP6-LTP7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTP7-LTP8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LTP8-LTP9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LIT8-LIT9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LIT9-LIT10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LIT10-LIT11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LIT11-LIT12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LIT12-LIT13	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-LI4-LI5	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI5-LI6	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI6-LI7	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI9-LI10	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI10-LI11	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI11-LI12	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI12-LI13	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LI13-LI14	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LF6-LF7	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate
-LAC3-LAC4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC4-LAC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC5-LAC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC6-LAC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC7-LAC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC8-LAC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC9-LAC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LF12-LF13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LF13-LF14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LF14-LF15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LF15-LF16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAM9-LAM10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAM10-LAM11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAM11-LAM12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAM12-LAM13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAM13-LAM14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LP8-LP9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LP9-LP10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LP10-LP11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LP11-LP12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH9-LAH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH10-LAH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH11-LAH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LAH12-LAH13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LS1-LS2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS2-LS3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS3-LS4	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS4-LS5	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS5-LS6	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS6-LS7	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LS7-LS8	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA1-LA2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA2-LA3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA3-LA4	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA4-LA5	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA5-LA6	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LA6-LA7	n/a	n/a	n/a	n/a	ctx-lh-supramarginal
-LAM7-LAM8	n/a	n/a	n/a	n/a	ctx-lh-insula
-LI1-LI2	n/a	n/a	n/a	n/a	ctx-lh-insula
-LI2-LI3	n/a	n/a	n/a	n/a	ctx-lh-insula
-LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-LIT1-LIT2	n/a	n/a	n/a	n/a	Left-Hippocampus
-LIT2-LIT3	n/a	n/a	n/a	n/a	Left-Hippocampus
-LIT3-LIT4	n/a	n/a	n/a	n/a	Left-Hippocampus
-LAM1-LAM2	n/a	n/a	n/a	n/a	Left-Amygdala
-LAM2-LAM3	n/a	n/a	n/a	n/a	Left-Amygdala
-LAM3-LAM4	n/a	n/a	n/a	n/a	Left-Amygdala
-LAM4-LAM5	n/a	n/a	n/a	n/a	Left-Amygdala
-LAM5-LAM6	n/a	n/a	n/a	n/a	Left-Amygdala
-RH1-RH2	n/a	n/a	n/a	n/a	Right-Hippocampus
-RH2-RH3	n/a	n/a	n/a	n/a	Right-Hippocampus
-RH3-RH4	n/a	n/a	n/a	n/a	Right-Hippocampus
-RH4-RH5	n/a	n/a	n/a	n/a	Right-Hippocampus
-RAM1-RAM2	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM2-RAM3	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM3-RAM4	n/a	n/a	n/a	n/a	Right-Amygdala
-RAM4-RAM5	n/a	n/a	n/a	n/a	Right-Amygdala
-RH8-RH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RH9-RH10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RH10-RH11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RH11-RH12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RH12-RH13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal
-RAM7-RAM8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RAM8-RAM9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RAM9-RAM10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
-RAM10-RAM11	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal
+name	x	y	z	size	region	soz_region_label
+LAC1-LAC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+LP1-LP2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+LP2-LP3	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+LTP1-LTP2	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LTP2-LTP3	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LP4-LP5	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LP5-LP6	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LIT5-LIT6	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LIT6-LIT7	n/a	n/a	n/a	n/a	ctx-lh-fusiform	yes
+LF1-LF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LF2-LF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LF3-LF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LF4-LF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LTP4-LTP5	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTP5-LTP6	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTP6-LTP7	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTP7-LTP8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LTP8-LTP9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LIT8-LIT9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LIT9-LIT10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LIT10-LIT11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LIT11-LIT12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LIT12-LIT13	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+LI4-LI5	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI5-LI6	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI6-LI7	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI8-LI9	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI9-LI10	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI10-LI11	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI11-LI12	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI12-LI13	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LI13-LI14	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LF6-LF7	n/a	n/a	n/a	n/a	ctx-lh-rostralanteriorcingulate	n/a
+LAC3-LAC4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC4-LAC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC5-LAC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC6-LAC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC7-LAC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC8-LAC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC9-LAC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LF12-LF13	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LF13-LF14	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LF14-LF15	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LF15-LF16	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAM9-LAM10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAM10-LAM11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAM11-LAM12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAM12-LAM13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAM13-LAM14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LP8-LP9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LP9-LP10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LP10-LP11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LP11-LP12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH7-LAH8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH8-LAH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH9-LAH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH10-LAH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH11-LAH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LAH12-LAH13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LS1-LS2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS2-LS3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS3-LS4	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS4-LS5	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS5-LS6	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS6-LS7	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LS7-LS8	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA1-LA2	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA2-LA3	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA3-LA4	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA4-LA5	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA5-LA6	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LA6-LA7	n/a	n/a	n/a	n/a	ctx-lh-supramarginal	no
+LAM7-LAM8	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LI1-LI2	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LI2-LI3	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LAH1-LAH2	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH2-LAH3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAH3-LAH4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LIT1-LIT2	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LIT2-LIT3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LIT3-LIT4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+LAM1-LAM2	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LAM2-LAM3	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LAM3-LAM4	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LAM4-LAM5	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+LAM5-LAM6	n/a	n/a	n/a	n/a	Left-Amygdala	yes
+RH1-RH2	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RH2-RH3	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RH3-RH4	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RH4-RH5	n/a	n/a	n/a	n/a	Right-Hippocampus	yes
+RAM1-RAM2	n/a	n/a	n/a	n/a	Right-Amygdala	yes
+RAM2-RAM3	n/a	n/a	n/a	n/a	Right-Amygdala	yes
+RAM3-RAM4	n/a	n/a	n/a	n/a	Right-Amygdala	yes
+RAM4-RAM5	n/a	n/a	n/a	n/a	Right-Amygdala	yes
+RH8-RH9	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+RH9-RH10	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+RH10-RH11	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+RH11-RH12	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+RH12-RH13	n/a	n/a	n/a	n/a	ctx-rh-middletemporal	no
+RAM7-RAM8	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RAM8-RAM9	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RAM9-RAM10	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no
+RAM10-RAM11	n/a	n/a	n/a	n/a	ctx-rh-superiortemporal	no

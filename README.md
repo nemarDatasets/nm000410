@@ -54,3 +54,19 @@ Sundrani et al. 2025, Acknowledgements (verbatim in dataset_description.json).
 
 ## Licence
 CC-BY-NC-SA-4.0 (Pennsieve licence field: "Creative Commons Attribution - NonCommercial-ShareAlike"). Non-commercial use only.
+
+## Additional metadata and localisation (added 2026-10-08)
+
+Compiled after the upload from the article, its supplement and the source deposit (each statement names its source). Text and sidecar metadata only; no data file was changed.
+
+**Recording system.** Amplifier not stated (n/a). sampling_freq in the .mat files: 512 Hz (40), 500 Hz (20), 1024 Hz (14), 2048 Hz (5); filt_data holds 150000-153600 samples per channel (deposit, Voyager Job). The deposit README states inputs at 500-512 Hz (data are resampled to 500 Hz by the code, `resample_to_500hz`). Filtering: MATLAB filtfilt Butterworth passbands 1-59, 61-119 and 121-150 Hz (paper Methods "Data Preprocessing") - the stored filt_data are the filtered signals (variable name; deposit code).
+
+**Reference scheme.** Bipolar montage of adjacent contacts (bip_montage_label e.g. "LAC1 - LAC2"; deposit .mat). Original recording reference not stated.
+
+**Electrode types.** SEEG depth electrodes; manufacturer not stated.
+
+**Localisation method.** Contacts localised on post-implantation CT with CRAnial Vault Explorer (CRAVE) and each contact assigned to a Desikan-Killiany (DK) region; verified by a staff engineer, attending neurosurgeon and attending epileptologist. SOZ defined per DK region containing any contact involved in ictal onset of >=1 seizure (paper Methods). Coordinates are not in the deposit; only DK labels per bipolar channel.
+
+**Cohort (paper Table 1).** n=78; female 45 (57.7%); age mean 34.6 (SD 12.4); outcome at one year: Engel I 23, II 5, III 7, IV 3, neuromodulation responder 15, non-responder 10, none 15.
+
+Each `electrodes.tsv` now has a `soz_region_label` column (yes/no/n/a): whether the channel's DK region is one of the patient's SOZ regions in the deposit results JSON.

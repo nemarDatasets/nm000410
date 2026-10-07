@@ -20,7 +20,8 @@
   "ReferencesAndLinks": [
     "https://doi.org/10.26275/wtaz-dbst",
     "https://discover.pennsieve.io/datasets/492/version/1",
-    "https://doi.org/10.1111/epi.18478"
+    "https://doi.org/10.1111/epi.18478",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12354104/"
   ],
   "Keywords": [
     "shap analysis",

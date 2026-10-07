@@ -1,121 +1,121 @@
-name	x	y	z	size	region
-LAC1-LAC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-LAC2-LAC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-LAC3-LAC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-LSM5-LSM6	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LSM6-LSM7	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LSM7-LSM8	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LSM8-LSM9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LSM9-LSM10	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LSM10-LSM11	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-LLF1-LLF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LLF2-LLF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF1-LOF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF2-LOF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF3-LOF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF4-LOF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF5-LOF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF6-LOF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LOF7-LOF8	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-LMF1-LMF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LMF2-LMF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LMF3-LMF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LMF4-LMF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-LOF9-LOF10	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-LOF10-LOF11	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-LOF11-LOF12	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-LOF12-LOF13	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-LOF13-LOF14	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis
-LOP4-LOP5	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LOP5-LOP6	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LLF6-LLF7	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LLF7-LLF8	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-LPM6-LPM7	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM7-LPM8	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM8-LPM9	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM9-LPM10	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM10-LPM11	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM11-LPM12	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LPM12-LPM13	n/a	n/a	n/a	n/a	ctx-lh-precentral
-LOP8-LOP9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LOP9-LOP10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LOP10-LOP11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LOP11-LOP12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LOP12-LOP13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LLF9-LLF10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LLF10-LLF11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LLF11-LLF12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LLF12-LLF13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LMF13-LMF14	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LMF14-LMF15	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal
-LPM1-LPM2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LPM2-LPM3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LPM3-LPM4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LSM1-LSM2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LSM2-LSM3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LSM3-LSM4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC5-LAC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC9-LAC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC10-LAC11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LAC11-LAC12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-LT7-LT8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT8-LT9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT9-LT10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT10-LT11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT11-LT12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT12-LT13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT13-LT14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-LT1-LT2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LT2-LT3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LT3-LT4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LT4-LT5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LT5-LT6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-LOP1-LOP2	n/a	n/a	n/a	n/a	ctx-lh-insula
-LOP2-LOP3	n/a	n/a	n/a	n/a	ctx-lh-insula
-RAC1-RAC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-RAC2-RAC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-RAC3-RAC4	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate
-RLF1-RLF2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-RLF2-RLF3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-RLF3-RLF4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-ROF4-ROF5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-ROF5-ROF6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-ROF6-ROF7	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-ROF7-ROF8	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal
-RMF1-RMF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-RMF2-RMF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-RMF3-RMF4	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-ROF1-ROF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-ROF2-ROF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal
-ROP2-ROP3	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROP3-ROP4	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROF9-ROF10	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROF10-ROF11	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROF11-ROF12	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROF15-ROF16	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis
-ROP5-ROP6	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-ROP6-ROP7	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-ROP7-ROP8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-ROP8-ROP9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-ROP9-ROP10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis
-RMF6-RMF7	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate
-RMF7-RMF8	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate
-ROP11-ROP12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-ROP12-ROP13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-ROP13-ROP14	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF6-RLF7	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF7-RLF8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF8-RLF9	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF9-RLF10	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF10-RLF11	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF11-RLF12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RLF12-RLF13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal
-RMF9-RMF10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RMF10-RMF11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RMF13-RMF14	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RMF14-RMF15	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RMF15-RMF16	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RAC5-RAC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RAC9-RAC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RAC10-RAC11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
-RAC11-RAC12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal
+name	x	y	z	size	region	soz_region_label
+LAC1-LAC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+LAC2-LAC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+LAC3-LAC4	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+LSM5-LSM6	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LSM6-LSM7	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LSM7-LSM8	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LSM8-LSM9	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LSM9-LSM10	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LSM10-LSM11	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	no
+LLF1-LLF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LLF2-LLF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF1-LOF2	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF2-LOF3	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF3-LOF4	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF4-LOF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF5-LOF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF6-LOF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LOF7-LOF8	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	yes
+LMF1-LMF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LMF2-LMF3	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LMF3-LMF4	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LMF4-LMF5	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	no
+LOF9-LOF10	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	yes
+LOF10-LOF11	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	yes
+LOF11-LOF12	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	yes
+LOF12-LOF13	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	yes
+LOF13-LOF14	n/a	n/a	n/a	n/a	ctx-lh-parsorbitalis	yes
+LOP4-LOP5	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	yes
+LOP5-LOP6	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	yes
+LLF6-LLF7	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	yes
+LLF7-LLF8	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	yes
+LPM6-LPM7	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM7-LPM8	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM8-LPM9	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM9-LPM10	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM10-LPM11	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM11-LPM12	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LPM12-LPM13	n/a	n/a	n/a	n/a	ctx-lh-precentral	no
+LOP8-LOP9	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LOP9-LOP10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LOP10-LOP11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LOP11-LOP12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LOP12-LOP13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LLF9-LLF10	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LLF10-LLF11	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LLF11-LLF12	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LLF12-LLF13	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LMF13-LMF14	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LMF14-LMF15	n/a	n/a	n/a	n/a	ctx-lh-rostralmiddlefrontal	no
+LPM1-LPM2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LPM2-LPM3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LPM3-LPM4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LSM1-LSM2	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LSM2-LSM3	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LSM3-LSM4	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC5-LAC6	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC9-LAC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC10-LAC11	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LAC11-LAC12	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+LT7-LT8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT8-LT9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT9-LT10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT10-LT11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT11-LT12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT12-LT13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT13-LT14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+LT1-LT2	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+LT2-LT3	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+LT3-LT4	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+LT4-LT5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+LT5-LT6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+LOP1-LOP2	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+LOP2-LOP3	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+RAC1-RAC2	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+RAC2-RAC3	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+RAC3-RAC4	n/a	n/a	n/a	n/a	ctx-rh-caudalanteriorcingulate	n/a
+RLF1-RLF2	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+RLF2-RLF3	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+RLF3-RLF4	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+ROF4-ROF5	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+ROF5-ROF6	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+ROF6-ROF7	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+ROF7-ROF8	n/a	n/a	n/a	n/a	ctx-rh-lateralorbitofrontal	yes
+RMF1-RMF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	no
+RMF2-RMF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	no
+RMF3-RMF4	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	no
+ROF1-ROF2	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	no
+ROF2-ROF3	n/a	n/a	n/a	n/a	ctx-rh-medialorbitofrontal	no
+ROP2-ROP3	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROP3-ROP4	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROF9-ROF10	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROF10-ROF11	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROF11-ROF12	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROF15-ROF16	n/a	n/a	n/a	n/a	ctx-rh-parsorbitalis	yes
+ROP5-ROP6	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	yes
+ROP6-ROP7	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	yes
+ROP7-ROP8	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	yes
+ROP8-ROP9	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	yes
+ROP9-ROP10	n/a	n/a	n/a	n/a	ctx-rh-parstriangularis	yes
+RMF6-RMF7	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate	n/a
+RMF7-RMF8	n/a	n/a	n/a	n/a	ctx-rh-rostralanteriorcingulate	n/a
+ROP11-ROP12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+ROP12-ROP13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+ROP13-ROP14	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF6-RLF7	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF7-RLF8	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF8-RLF9	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF9-RLF10	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF10-RLF11	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF11-RLF12	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RLF12-RLF13	n/a	n/a	n/a	n/a	ctx-rh-rostralmiddlefrontal	yes
+RMF9-RMF10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RMF10-RMF11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RMF13-RMF14	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RMF14-RMF15	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RMF15-RMF16	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RAC5-RAC6	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RAC9-RAC10	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RAC10-RAC11	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes
+RAC11-RAC12	n/a	n/a	n/a	n/a	ctx-rh-superiorfrontal	yes

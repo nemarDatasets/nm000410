@@ -1,73 +1,73 @@
-name	x	y	z	size	region
-TP1-TP2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-TP2-TP3	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-E1-E2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal
-TP4-TP5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TP5-TP6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TP6-TP7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TP7-TP8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole
-TP9-TP10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-TP10-TP11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-TP11-TP12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A7-A8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A8-A9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A9-A10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A10-A11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A11-A12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH8-AH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH9-AH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH10-AH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH11-AH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH12-AH13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-AH13-AH14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PH8-PH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PH9-PH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PH10-PH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-PH13-PH14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal
-A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala
-A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala
-A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala
-A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala
-A5-A6	n/a	n/a	n/a	n/a	Left-Amygdala
-A13-A14	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-E7-E8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-E8-E9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-E9-E10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-E10-E11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-E11-E12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal
-AH1-AH2	n/a	n/a	n/a	n/a	Left-Hippocampus
-AH2-AH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-AH3-AH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-AH4-AH5	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH2-PH3	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH3-PH4	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH4-PH5	n/a	n/a	n/a	n/a	Left-Hippocampus
-PH5-PH6	n/a	n/a	n/a	n/a	Left-Hippocampus
-E3-E4	n/a	n/a	n/a	n/a	ctx-lh-fusiform
-E5-E6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal
-OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal
-OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF6-OF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF7-OF8	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF8-OF9	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal
-OF10-OF11	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-OF11-OF12	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-OF12-OF13	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-OF13-OF14	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-OF14-OF15	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis
-I1-I2	n/a	n/a	n/a	n/a	ctx-lh-insula
-I4-I5	n/a	n/a	n/a	n/a	ctx-lh-insula
-I6-I7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-I7-I8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-I8-I9	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis
-I10-I11	n/a	n/a	n/a	n/a	ctx-lh-precentral
-I12-I13	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-I13-I14	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal
-AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate
-AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC6-AC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
-AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal
+name	x	y	z	size	region	soz_region_label
+TP1-TP2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+TP2-TP3	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+E1-E2	n/a	n/a	n/a	n/a	ctx-lh-entorhinal	n/a
+TP4-TP5	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+TP5-TP6	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+TP6-TP7	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+TP7-TP8	n/a	n/a	n/a	n/a	ctx-lh-temporalpole	no
+TP9-TP10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+TP10-TP11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+TP11-TP12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A7-A8	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A8-A9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A9-A10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A10-A11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A11-A12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH8-AH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH9-AH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH10-AH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH11-AH12	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH12-AH13	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+AH13-AH14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PH8-PH9	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PH9-PH10	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PH10-PH11	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+PH13-PH14	n/a	n/a	n/a	n/a	ctx-lh-superiortemporal	no
+A1-A2	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A2-A3	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A3-A4	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A4-A5	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A5-A6	n/a	n/a	n/a	n/a	Left-Amygdala	no
+A13-A14	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+E7-E8	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+E8-E9	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+E9-E10	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+E10-E11	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+E11-E12	n/a	n/a	n/a	n/a	ctx-lh-middletemporal	no
+AH1-AH2	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+AH2-AH3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+AH3-AH4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+AH4-AH5	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+PH2-PH3	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+PH3-PH4	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+PH4-PH5	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+PH5-PH6	n/a	n/a	n/a	n/a	Left-Hippocampus	yes
+E3-E4	n/a	n/a	n/a	n/a	ctx-lh-fusiform	n/a
+E5-E6	n/a	n/a	n/a	n/a	ctx-lh-inferiortemporal	n/a
+OF1-OF2	n/a	n/a	n/a	n/a	ctx-lh-medialorbitofrontal	n/a
+OF4-OF5	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF5-OF6	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF6-OF7	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF7-OF8	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF8-OF9	n/a	n/a	n/a	n/a	ctx-lh-lateralorbitofrontal	no
+OF10-OF11	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	no
+OF11-OF12	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	no
+OF12-OF13	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	no
+OF13-OF14	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	no
+OF14-OF15	n/a	n/a	n/a	n/a	ctx-lh-parstriangularis	no
+I1-I2	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+I4-I5	n/a	n/a	n/a	n/a	ctx-lh-insula	n/a
+I6-I7	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+I7-I8	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+I8-I9	n/a	n/a	n/a	n/a	ctx-lh-parsopercularis	n/a
+I10-I11	n/a	n/a	n/a	n/a	ctx-lh-precentral	n/a
+I12-I13	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	n/a
+I13-I14	n/a	n/a	n/a	n/a	ctx-lh-caudalmiddlefrontal	n/a
+AC1-AC2	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+AC2-AC3	n/a	n/a	n/a	n/a	ctx-lh-caudalanteriorcingulate	n/a
+AC4-AC5	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC6-AC7	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC7-AC8	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC8-AC9	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
+AC9-AC10	n/a	n/a	n/a	n/a	ctx-lh-superiorfrontal	no
