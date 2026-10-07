@@ -1,0 +1,119 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Kate Wang": {
+      "orcid": "0009-0000-2913-5708"
+    },
+    "Sameer Sundrani": {
+      "orcid": "0000-0002-1939-0462",
+      "affiliations": [
+        {
+          "name": "Vanderbilt University School of Medicine  Nashville Tennessee USA"
+        },
+        {
+          "name": "Department of Neurological Surgery Vanderbilt University Medical Center  Nashville Tennessee USA"
+        }
+      ]
+    },
+    "Dario Englot": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.26275/wtaz-dbst",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1111/epi.18478",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000410",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000410",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "We would also like to thank Neil and Barbara Smit for their support towards this work."
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "R01NS112252"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "R01NS134625"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "F31NS131056"
+    },
+    {
+      "funder_name": "NIGMS",
+      "award_number": "T32GM007347"
+    },
+    {
+      "funder_name": "NIBIB",
+      "award_number": "T32EB021937"
+    }
+  ],
+  "title": "Vanderbilt BIEN Lab SOZ Resting State SEEG Classification (processed resting-state SEEG)",
+  "license": "CC-BY-NC-SA-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "16.19 GB (244 files)"
+  ],
+  "formats": [
+    ".csv",
+    ".eeg",
+    ".jpg",
+    ".json",
+    ".mat",
+    ".md",
+    ".pth",
+    ".py",
+    ".tsv",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "Processed resting-state stereoelectroencephalography (SEEG) recordings from patients with drug-resistant epilepsy evaluated at Vanderbilt University Medical Center. Each participant contributes five minutes of awake, eyes-closed interictal data in a bipolar montage, filtered and labeled with region-level seizure onset zone (SOZ) ground truth. The data support deep learning classification of SOZ versus non-SOZ brain regions.",
+  "methods_description": "Five minutes of awake, eyes-closed resting-state SEEG were recorded per patient, at least 4 hours from electroclinical activity. Signals were converted to a bipolar montage and Butterworth filtered with MATLAB filtfilt (1-59, 61-119, 121-150 Hz). Contacts were assigned to Desikan-Killiany regions, and SOZs were defined at the region level as regions containing any contact involved in ictal onset.",
+  "keywords": [
+    {
+      "term": "SEEG"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "resting state"
+    },
+    {
+      "term": "Deep Learning",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000077321"
+    },
+    {
+      "term": "convolutional neural network"
+    }
+  ],
+  "source_hash": "8610ca97c3e0950024257328845f08e4275a48a2f301fe551f77f36baf5f514d"
+}
