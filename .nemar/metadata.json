@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Vanderbilt BIEN Lab SOZ Resting State SEEG Classification (processed resting-state SEEG)",
-  "description": "Processed resting-state stereoelectroencephalography (SEEG) recordings from 79 patients with drug-resistant epilepsy evaluated at Vanderbilt University Medical Center. Each patient contributed five minutes of awake, eyes-closed interictal data, stored as filtered bipolar-montage signals with region-level seizure onset zone (SOZ) labels. The data accompany a study that trains deep neural networks to classify SOZ versus non-SOZ brain regions from brief interictal recordings.",
-  "methods_description": "Five minutes of awake, eyes-closed resting-state SEEG were recorded per patient, with at least 4 h separation from electroclinical activity. Signals were converted to a bipolar montage of adjacent contacts and filtered with zero-phase Butterworth filters (MATLAB filtfilt; passbands 1-59, 61-119 and 121-150 Hz). Contacts were localized on post-implantation CT and assigned to Desikan-Killiany regions. SOZs were defined per region.",
+  "description": "Processed resting-state stereoelectroencephalography (SEEG) recordings from 79 patients with drug-resistant epilepsy evaluated at Vanderbilt University Medical Center. Each patient contributed five minutes of awake, eyes-closed, interictal data in a bipolar montage, filtered and labeled with region-level seizure onset zone (SOZ) ground truth. The data support training and analysis of deep neural networks that classify SOZ versus non-SOZ brain regions.",
+  "methods_description": "Five minutes of awake, eyes-closed interictal resting-state SEEG were recorded per patient at sampling rates of 500-2048 Hz. Signals were converted to a bipolar montage of adjacent contacts and filtered with MATLAB filtfilt Butterworth passbands (1-59, 61-119, 121-150 Hz). Contacts were localized on post-implantation CT with CRAVE and assigned to Desikan-Killiany regions. SOZs were defined per region as those containing any contact involved in ictal onset.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -28,16 +28,15 @@
       "term": "SEEG"
     },
     {
-      "term": "resting state"
-    },
-    {
-      "term": "seizure onset zone"
-    },
-    {
-      "term": "Drug Resistant Epilepsy",
+      "term": "Epilepsy",
       "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069279"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "seizure onset zone localization"
+    },
+    {
+      "term": "resting state"
     },
     {
       "term": "Deep Learning",
@@ -117,5 +116,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "0378cf2a3adee78dcc2b27fb021a8c2a335eb64486e79474aecb6bd5f1ea40a9"
+  "source_hash": "b6dddfc56d110af700acd6ba49725cce309035836050585111716f1fc950f717"
 }
